@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>London rental market</title>
+
+  <link type="text/css" rel="stylesheet" href="js/uikit-3.15.14/css/uikit.min.css" />
+  <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="js/uikit-3.15.14/js/uikit.min.js"></script>
+  <script src="js/d3.v7.min.js"></script>
+  <style>
+
+    .uk-navbar-container:not(.uk-navbar-transparent) {
+      background: black;
+   }
+
+   .uk-navbar-container{
+      padding-left:15px;
+   }
+
+    #container {
+      max-width: 600px;
+      height: 400px;
+      margin: 0 auto;
+      font-family: Helvetica;
+      line-height: 1.4em;
+    }
+
+    h1 {
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    html, body {
+			height: 100%;
+			margin: 0;
+		}
+
+  </style>
+</head>
+
+<body>
+<!--Navbar-->
+<div uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent uk-light">
+  <nav class="uk-navbar-container" uk-navbar >
+      <div class="uk-navbar-left ">
+        <ul class="uk-navbar-nav">
+          <li class="uk-active"><a href="" uk-scroll="offset: 75;">Home</a></li>
+          <li><a href="" uk-scroll="offset: 75;">Rental market</a></li>
+          <li><a href="" uk-scroll="offset: 75;">No ideas?</a></li>
+          <li><a href="" uk-scroll="offset: 75;">About</a></li>
+        </ul>
+      </div>
+  </nav>
+</div>
+
+</body>
+</html>

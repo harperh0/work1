@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Three Bedrooms</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet map -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="">
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+  <!-- Control geocoder -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder@1.13.1/dist/Control.Geocoder.css" />
+  <script src="https://unpkg.com/leaflet-control-geocoder@1.13.1/dist/Control.Geocoder.js"></script>
+  <link rel="stylesheet" href="css/leaflet.css"/>
+  <script src="js/leaflet.js"></script>
+
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 400px;
+			width: 600px;
+			max-width: 100%;
+			max-height: 100%;
+		}
+	</style>
+
+  <style>
+
+  h2 { margin: 100 100 100 100px;
+    text-align: center;
+    font-family: sans-serif; }
+
+	#map { width: 800px;
+		height: 500px;
+    margin: 0 auto; }
+
+	.info { padding: 6px 8px;
+		font: 14px/16px Arial, Helvetica, sans-serif;
+		background: white;
+		background: rgba(255,255,255,0.8);
+		box-shadow: 0 0 15px rgba(0,0,0,0.2);
+		border-radius: 5px; }
+
+	.info h4 { margin: 0 0 5px;
+		color: #777; }
+
+	.legend { text-align: left;
+			line-height: 18px;
+			color: #555; }
+
+	.legend i { width: 18px;
+			height: 18px;
+			float: left;
+			margin-right: 8px;
+			opacity: 0.7; }
+	</style>
+</head>
+
+<body>
+
+<h2>Median monthly rents of Three Bedrooms</h2>
+<div id='map'></div>
+
+<!-- <script type="text/javascript" src="us-states.js"></script> -->
+<script type="text/javascript" src="data/london_Bor_3.js"></script>
+
+<script type="text/javascript">
+
+	const map = L.map('map').setView([51.5, 0], 10);
+
+	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+	// control that shows state info on hover
+	const info = L.control();
+
+	info.onAdd = function (map) {
+		this._div = L.DomUtil.create('div', 'info');
+		this.update();
+		return this._div;
+	};
+
+	info.update = function (props) {
+		const contents = props ? `<b>${props.Borough}</b><br /> £ ${props.Median} per month` : 'Hover over a borough';
+		this._div.innerHTML = `<h4>Median rents of Three Bedrooms</h4>${contents}`;
+	};
+
+	info.addTo(map);
+
+
+	// get color depending on population density value
+	function getColor(d) {
+    return d > 4000 ? '#800026' :
+			d > 3000  ? '#BD0026' :
+			d > 2000  ? '#E31A1C' :
+			d > 1800  ? '#FC4E2A' :
+			d > 1600   ? '#FD8D3C' :
+			d > 1400   ? '#FEB24C' : '#FED976';
+	}
+
+	function style(feature) {
+		return {
+			weight: 2,
+			opacity: 1,
+			color: 'white',
+			dashArray: '3',
+			fillOpacity: 0.7,
+			fillColor: getColor(feature.properties.Median)
+		};
+	}
+
+	function highlightFeature(e) {
+		const layer = e.target;
+
+		layer.setStyle({
+			weight: 5,
+			color: '#666',
+			dashArray: '',
+			fillOpacity: 0.7
+		});
+
+		layer.bringToFront();
+
+		info.update(layer.feature.properties);
+	}
+
+	/* global statesData */
+	const geojson = L.geoJson(londonData, {
+		style,
+		onEachFeature
+	}).addTo(map);
+
+	function resetHighlight(e) {
+		geojson.resetStyle(e.target);
+		info.update();
+	}
+
+	function zoomToFeature(e) {
+		map.fitBounds(e.target.getBounds());
+	}
+
+	function onEachFeature(feature, layer) {
+		layer.on({
+			mouseover: highlightFeature,
+			mouseout: resetHighlight,
+			click: zoomToFeature
+		});
+	}
+
+	map.attributionControl.addAttribution('Rental market data &copy; <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/adhocs/12871privaterentalmarketinlondonjanuarytodecember2020/">ONS</a>');
+
+
+	const legend = L.control({position: 'bottomright'});
+
+	legend.onAdd = function (map) {
+
+		const div = L.DomUtil.create('div', 'info legend');
+		const grades = [1200, 1400, 1600, 1800, 2000, 3000, 4000];
+		const labels = [];
+		let from, to;
+
+		for (let i = 0; i < grades.length; i++) {
+			from = grades[i];
+			to = grades[i + 1];
+
+			labels.push(`<i style="background:${getColor(from + 1)}"></i> ${from}${to ? `&ndash;${to}` : '+'}`);
+		}
+
+		div.innerHTML = labels.join('<br>');
+		return div;
+	};
+
+	legend.addTo(map);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,199 @@
+﻿Borough,Bedroom Category,Count of rents,Mean,Lower quartile,Median,Upper quartile
+Barking and Dagenham,Room,10,634,367,542,910
+Barking and Dagenham,Studio,10,742,730,740,750
+Barking and Dagenham,One Bedroom,250,1053,950,1050,1125
+Barking and Dagenham,Two Bedrooms,470,1302,1200,1300,1450
+Barking and Dagenham,Three Bedrooms,280,1488,1400,1450,1600
+Barking and Dagenham,Four or More Bedrooms,40,1788,1650,1800,1900
+Barnet,Room,20,576,542,574,626
+Barnet,Studio,170,919,823,900,1034
+Barnet,One Bedroom,770,1174,1075,1184,1290
+Barnet,Two Bedrooms,1450,1421,1300,1400,1550
+Barnet,Three Bedrooms,480,1837,1602,1800,2000
+Barnet,Four or More Bedrooms,230,2554,2100,2470,3000
+Bexley,Room,110,776,787,808,808
+Bexley,Studio,20,833,795,825,895
+Bexley,One Bedroom,200,961,875,948,1049
+Bexley,Two Bedrooms,390,1223,1100,1200,1300
+Bexley,Three Bedrooms,290,1436,1265,1450,1600
+Bexley,Four or More Bedrooms,100,1758,1336,1800,2075
+Brent,Room,40,609,500,650,700
+Brent,Studio,100,888,800,875,950
+Brent,One Bedroom,350,1185,1075,1150,1250
+Brent,Two Bedrooms,620,1465,1300,1400,1600
+Brent,Three Bedrooms,400,1802,1650,1775,1900
+Brent,Four or More Bedrooms,160,2248,2000,2200,2450
+Bromley,Room,..,..,..,..,..
+Bromley,Studio,50,828,790,819,875
+Bromley,One Bedroom,710,1052,950,1050,1150
+Bromley,Two Bedrooms,1090,1337,1200,1310,1450
+Bromley,Three Bedrooms,420,1696,1500,1650,1850
+Bromley,Four or More Bedrooms,200,2502,1888,2200,2625
+Camden,Room,..,..,..,..,..
+Camden,Studio,270,1150,950,1083,1350
+Camden,One Bedroom,510,1584,1300,1500,1750
+Camden,Two Bedrooms,500,2184,1688,2000,2500
+Camden,Three Bedrooms,200,2941,2200,2600,3575
+Camden,Four or More Bedrooms,80,3780,2230,3150,4333
+City of London,Room,0,.,.,.,.
+City of London,Studio,40,1475,1240,1365,1700
+City of London,One Bedroom,90,1786,1582,1733,1950
+City of London,Two Bedrooms,50,2276,2002,2299,2525
+City of London,Three Bedrooms,10,2847,2383,2600,3000
+City of London,Four or More Bedrooms,..,..,..,..,..
+Croydon,Room,20,542,460,496,585
+Croydon,Studio,110,818,750,800,890
+Croydon,One Bedroom,650,992,900,950,1075
+Croydon,Two Bedrooms,950,1256,1150,1250,1350
+Croydon,Three Bedrooms,330,1548,1400,1500,1650
+Croydon,Four or More Bedrooms,150,2112,1795,2000,2350
+Ealing,Room,50,622,575,642,711
+Ealing,Studio,160,949,850,940,1000
+Ealing,One Bedroom,690,1241,1100,1242,1350
+Ealing,Two Bedrooms,980,1533,1350,1495,1650
+Ealing,Three Bedrooms,380,1883,1600,1800,2012
+Ealing,Four or More Bedrooms,200,2749,2150,2500,3175
+Enfield,Room,10,747,542,695,918
+Enfield,Studio,60,785,675,800,900
+Enfield,One Bedroom,270,1053,950,1050,1150
+Enfield,Two Bedrooms,460,1346,1250,1325,1450
+Enfield,Three Bedrooms,260,1655,1500,1625,1800
+Enfield,Four or More Bedrooms,70,2199,1825,2050,2300
+Greenwich,Room,30,577,482,560,650
+Greenwich,Studio,30,918,775,850,1075
+Greenwich,One Bedroom,430,1231,1050,1219,1380
+Greenwich,Two Bedrooms,800,1458,1250,1400,1650
+Greenwich,Three Bedrooms,320,1759,1450,1700,2000
+Greenwich,Four or More Bedrooms,100,2441,1725,2000,2800
+Hackney,Room,10,627,592,642,642
+Hackney,Studio,70,1075,900,1050,1296
+Hackney,One Bedroom,440,1461,1258,1400,1614
+Hackney,Two Bedrooms,530,1777,1475,1650,2000
+Hackney,Three Bedrooms,220,2325,1900,2280,2687
+Hackney,Four or More Bedrooms,70,3091,2800,3050,3450
+Hammersmith and Fulham,Room,..,..,..,..,..
+Hammersmith and Fulham,Studio,150,1019,867,992,1127
+Hammersmith and Fulham,One Bedroom,680,1450,1257,1400,1600
+Hammersmith and Fulham,Two Bedrooms,740,1993,1600,1850,2275
+Hammersmith and Fulham,Three Bedrooms,240,2673,2199,2492,3098
+Hammersmith and Fulham,Four or More Bedrooms,170,4457,3467,4050,5243
+Haringey,Room,130,648,570,657,717
+Haringey,Studio,170,878,775,869,953
+Haringey,One Bedroom,570,1253,1100,1250,1350
+Haringey,Two Bedrooms,690,1577,1375,1517,1711
+Haringey,Three Bedrooms,240,1953,1600,1850,2148
+Haringey,Four or More Bedrooms,220,2544,1800,2200,2970
+Harrow,Room,20,518,453,500,581
+Harrow,Studio,50,788,700,750,900
+Harrow,One Bedroom,360,1105,1000,1100,1200
+Harrow,Two Bedrooms,640,1364,1250,1350,1450
+Harrow,Three Bedrooms,520,1673,1550,1650,1795
+Harrow,Four or More Bedrooms,140,2060,1800,2000,2247
+Havering,Room,10,592,542,624,624
+Havering,Studio,20,702,625,700,773
+Havering,One Bedroom,230,939,850,950,1000
+Havering,Two Bedrooms,370,1180,1100,1195,1275
+Havering,Three Bedrooms,320,1428,1300,1400,1525
+Havering,Four or More Bedrooms,60,1868,1625,1815,2060
+Hillingdon,Room,140,555,492,542,627
+Hillingdon,Studio,120,803,700,750,911
+Hillingdon,One Bedroom,370,970,875,950,1050
+Hillingdon,Two Bedrooms,470,1221,1125,1225,1300
+Hillingdon,Three Bedrooms,440,1406,1250,1395,1550
+Hillingdon,Four or More Bedrooms,120,1885,1500,1763,2170
+Hounslow,Room,70,554,475,550,622
+Hounslow,Studio,110,830,728,813,935
+Hounslow,One Bedroom,540,1146,993,1100,1300
+Hounslow,Two Bedrooms,800,1423,1250,1350,1550
+Hounslow,Three Bedrooms,410,1676,1450,1600,1800
+Hounslow,Four or More Bedrooms,130,2527,1725,2000,2950
+Islington,Room,60,641,502,658,719
+Islington,Studio,90,1171,950,1139,1254
+Islington,One Bedroom,720,1512,1300,1450,1658
+Islington,Two Bedrooms,650,1978,1600,1885,2250
+Islington,Three Bedrooms,270,2481,1925,2383,2817
+Islington,Four or More Bedrooms,120,3248,2700,3098,3868
+Kensington and Chelsea,Room,..,..,..,..,..
+Kensington and Chelsea,Studio,310,1344,1100,1300,1517
+Kensington and Chelsea,One Bedroom,940,2008,1556,1842,2213
+Kensington and Chelsea,Two Bedrooms,1080,2824,2145,2600,3250
+Kensington and Chelsea,Three Bedrooms,320,4470,3250,4008,5417
+Kensington and Chelsea,Four or More Bedrooms,120,6851,4800,6489,8017
+Kingston upon Thames,Room,..,..,..,..,..
+Kingston upon Thames,Studio,20,877,850,875,920
+Kingston upon Thames,One Bedroom,230,1098,1000,1100,1175
+Kingston upon Thames,Two Bedrooms,350,1402,1250,1350,1500
+Kingston upon Thames,Three Bedrooms,140,1841,1560,1800,2040
+Kingston upon Thames,Four or More Bedrooms,80,2724,2100,2500,3000
+Lambeth,Room,30,616,550,630,707
+Lambeth,Studio,80,1070,867,1000,1200
+Lambeth,One Bedroom,630,1415,1200,1365,1595
+Lambeth,Two Bedrooms,1010,1719,1400,1658,1960
+Lambeth,Three Bedrooms,340,2282,1800,2215,2600
+Lambeth,Four or More Bedrooms,150,3226,2500,3150,3655
+Lewisham,Room,50,673,550,650,748
+Lewisham,Studio,110,889,800,895,980
+Lewisham,One Bedroom,580,1133,1000,1100,1250
+Lewisham,Two Bedrooms,780,1394,1250,1350,1500
+Lewisham,Three Bedrooms,300,1708,1500,1650,1850
+Lewisham,Four or More Bedrooms,80,2364,1900,2200,2600
+Merton,Room,..,..,..,..,..
+Merton,Studio,20,933,875,925,1010
+Merton,One Bedroom,300,1258,1100,1250,1390
+Merton,Two Bedrooms,480,1568,1350,1500,1750
+Merton,Three Bedrooms,210,2125,1650,1962,2450
+Merton,Four or More Bedrooms,120,3269,2500,2800,3750
+Newham,Room,30,797,458,665,788
+Newham,Studio,80,1167,978,1218,1325
+Newham,One Bedroom,1030,1311,1200,1320,1450
+Newham,Two Bedrooms,1090,1599,1400,1597,1775
+Newham,Three Bedrooms,410,1836,1600,1750,2059
+Newham,Four or More Bedrooms,90,2101,1800,2000,2250
+Redbridge,Room,60,780,592,642,836
+Redbridge,Studio,50,787,725,780,876
+Redbridge,One Bedroom,410,1055,950,1050,1150
+Redbridge,Two Bedrooms,650,1312,1200,1300,1400
+Redbridge,Three Bedrooms,330,1623,1500,1615,1710
+Redbridge,Four or More Bedrooms,110,2103,1800,2000,2400
+Richmond upon Thames,Room,20,681,631,650,742
+Richmond upon Thames,Studio,80,985,850,950,1063
+Richmond upon Thames,One Bedroom,690,1251,1100,1225,1350
+Richmond upon Thames,Two Bedrooms,1130,1699,1450,1625,1850
+Richmond upon Thames,Three Bedrooms,470,2355,1750,2200,2800
+Richmond upon Thames,Four or More Bedrooms,260,3884,2825,3600,4500
+Southwark,Room,10,724,687,700,750
+Southwark,Studio,70,1130,975,1100,1250
+Southwark,One Bedroom,960,1402,1200,1350,1570
+Southwark,Two Bedrooms,1210,1792,1500,1700,2058
+Southwark,Three Bedrooms,420,2249,1900,2150,2500
+Southwark,Four or More Bedrooms,180,3285,2650,3200,3725
+Sutton,Room,0,.,.,.,.
+Sutton,Studio,60,796,750,795,850
+Sutton,One Bedroom,290,966,895,950,1000
+Sutton,Two Bedrooms,400,1231,1125,1225,1300
+Sutton,Three Bedrooms,130,1608,1450,1595,1750
+Sutton,Four or More Bedrooms,30,2207,1900,2150,2400
+Tower Hamlets,Room,20,611,542,592,672
+Tower Hamlets,Studio,90,1314,1101,1250,1408
+Tower Hamlets,One Bedroom,590,1442,1250,1400,1600
+Tower Hamlets,Two Bedrooms,640,1758,1500,1668,1906
+Tower Hamlets,Three Bedrooms,210,2182,1835,2050,2471
+Tower Hamlets,Four or More Bedrooms,40,2840,2375,2995,3250
+Waltham Forest,Room,30,1063,592,642,1668
+Waltham Forest,Studio,40,810,720,850,925
+Waltham Forest,One Bedroom,430,1120,1000,1100,1223
+Waltham Forest,Two Bedrooms,570,1361,1250,1350,1500
+Waltham Forest,Three Bedrooms,260,1658,1500,1650,1800
+Waltham Forest,Four or More Bedrooms,90,1992,1800,2000,2295
+Wandsworth,Room,10,506,442,463,650
+Wandsworth,Studio,60,1069,1000,1050,1120
+Wandsworth,One Bedroom,690,1483,1300,1450,1650
+Wandsworth,Two Bedrooms,1200,1912,1600,1850,2200
+Wandsworth,Three Bedrooms,430,2445,1950,2400,2800
+Wandsworth,Four or More Bedrooms,280,3441,2700,3358,3950
+Westminster,Room,30,732,693,730,779
+Westminster,Studio,160,1298,1213,1235,1400
+Westminster,One Bedroom,480,2062,1600,1931,2383
+Westminster,Two Bedrooms,530,2764,2058,2578,3250
+Westminster,Three Bedrooms,170,4050,2990,3600,4487
+Westminster,Four or More Bedrooms,40,6592,4350,4983,7800
