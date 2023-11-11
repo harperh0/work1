@@ -74,4 +74,4 @@ Include any acknowledgments or credits for libraries, frameworks, or data source
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [LICENSE.md] - see the [LICENSE.md](LICENSE.md) file for details.
