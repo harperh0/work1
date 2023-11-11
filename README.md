@@ -47,7 +47,6 @@ The project is organised into distinct modules, each dedicated to a specific asp
 - HTML files: [HTML pages for the web interface]
 - EJS templates: [Templates for coding efficiency]
 - CSS: [Stylesheets for page styling]
-- Documentation: [Instructions for running the web page]
 
 ## Usage
 
