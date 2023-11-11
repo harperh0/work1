@@ -6,7 +6,7 @@ This project, part of the Digital Sandbox initiative, is a comprehensive endeavo
 
 ### Data Processing
 
-Utilized the R programming language for meticulous data cleaning and collation. The emphasis was on ensuring data quality and preparing it for downstream analysis.
+Utilised the R programming language for meticulous data cleaning and collation. The emphasis was on ensuring data quality and preparing it for downstream analysis.
 
 ### Web App Buildup
 
@@ -14,7 +14,7 @@ Backend skills were employed, leveraging Node.js and API integration. This facil
 
 ### Web Page Creation
 
-The project features the creation of a dynamic web page incorporating interactive maps. HTML was the foundation, with coding efficiency optimized through the use of EJS (Embedded JavaScript) for templating.
+The project features the creation of a dynamic web page incorporating interactive maps. HTML was the foundation, with coding efficiency optimised through the use of EJS (Embedded JavaScript) for templating.
 
 ## Technologies Used
 
@@ -29,11 +29,11 @@ The project features the creation of a dynamic web page incorporating interactiv
 
 ## Project Structure
 
-The project is organized into distinct modules, each dedicated to a specific aspect of the overall objective. The clear segmentation allows for modularity and ease of maintenance.
+The project is organised into distinct modules, each dedicated to a specific aspect of the overall objective. The clear segmentation allows for modularity and ease of maintenance.
 
 ### Data Processing Module
 
-- Code files: [List of R code files]
+- Code files: [List of R code and Excel files]
 - Documentation: [Any relevant documentation for data processing]
 
 ### Web App Module
