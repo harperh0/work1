@@ -78,3 +78,5 @@ This project is licensed under the [LICENSE.md](LICENSE.md) - see the [LICENSE.m
 The code and associated files in the "Work 1" project are the intellectual property of Hsin Pai. All rights are reserved by the copyright holder. This code is intended for the exclusive viewing of potential employers to assess the coding and analytical skills of Hsin Pai.
 
 Unauthorised use, reproduction, or distribution of this code, in whole or in part, without the written permission of Hsin Pai is strictly prohibited.
+
+© Hsin Pai, 2023
