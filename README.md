@@ -23,6 +23,8 @@ The project features the creation of a dynamic web page incorporating interactiv
 - API Integration
 - MySQL
 - HTML
+- JavaScript
+- CSS
 - EJS
 
 ## Project Structure
