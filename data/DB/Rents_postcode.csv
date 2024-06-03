@@ -1,0 +1,1975 @@
+﻿Postcode District,Bedroom Category,Count of rents,Mean,Lower quartile,Median,Upper quartile
+BR1,Room,0,.,.,.,.
+BR1,Studio,20,863,800,850,895
+BR1,One Bedroom,150,1080,1000,1100,1150
+BR1,Two Bedrooms,250,1320,1200,1300,1400
+BR1,Three Bedrooms,100,1649,1500,1600,1850
+BR1,Four or More Bedrooms,40,2550,2000,2400,2900
+BR2,Room,0,.,.,.,.
+BR2,Studio,-,..,..,..,..
+BR2,One Bedroom,120,1084,1000,1098,1150
+BR2,Two Bedrooms,260,1398,1300,1400,1500
+BR2,Three Bedrooms,80,1746,1500,1700,1900
+BR2,Four or More Bedrooms,30,2526,2000,2250,2600
+BR3,Room,0,.,.,.,.
+BR3,Studio,10,789,800,800,850
+BR3,One Bedroom,200,1035,975,1039,1100
+BR3,Two Bedrooms,250,1335,1200,1320,1400
+BR3,Three Bedrooms,70,1749,1500,1663,1995
+BR3,Four or More Bedrooms,30,2346,1800,2175,2500
+BR4,Room,0,.,.,.,.
+BR4,Studio,10,765,725,770,800
+BR4,One Bedroom,10,1022,950,1100,1100
+BR4,Two Bedrooms,10,1262,1175,1238,1338
+BR4,Three Bedrooms,10,1816,1750,1818,1900
+BR4,Four or More Bedrooms,10,2256,1850,2100,2600
+BR5,Room,-,..,..,..,..
+BR5,Studio,0,.,.,.,.
+BR5,One Bedroom,30,977,900,950,1025
+BR5,Two Bedrooms,70,1153,1050,1150,1250
+BR5,Three Bedrooms,40,1523,1390,1500,1610
+BR5,Four or More Bedrooms,10,2414,2000,2350,3200
+BR6,Room,0,.,.,.,.
+BR6,Studio,-,..,..,..,..
+BR6,One Bedroom,60,1041,940,1050,1100
+BR6,Two Bedrooms,90,1274,1150,1300,1400
+BR6,Three Bedrooms,70,1676,1500,1675,1775
+BR6,Four or More Bedrooms,50,2406,1850,2098,2500
+BR7,Room,0,.,.,.,.
+BR7,Studio,-,..,..,..,..
+BR7,One Bedroom,30,1018,900,950,1200
+BR7,Two Bedrooms,60,1464,1275,1400,1550
+BR7,Three Bedrooms,20,2000,1700,1950,2350
+BR7,Four or More Bedrooms,30,3078,2200,2600,3750
+BR8,Room,0,.,.,.,.
+BR8,Studio,0,.,.,.,.
+BR8,One Bedroom,0,.,.,.,.
+BR8,Two Bedrooms,0,.,.,.,.
+BR8,Three Bedrooms,0,.,.,.,.
+BR8,Four or More Bedrooms,0,.,.,.,.
+CM13,Room,0,.,.,.,.
+CM13,Studio,0,.,.,.,.
+CM13,One Bedroom,0,.,.,.,.
+CM13,Two Bedrooms,0,.,.,.,.
+CM13,Three Bedrooms,0,.,.,.,.
+CM13,Four or More Bedrooms,0,.,.,.,.
+CM14,Room,0,.,.,.,.
+CM14,Studio,0,.,.,.,.
+CM14,One Bedroom,0,.,.,.,.
+CM14,Two Bedrooms,0,.,.,.,.
+CM14,Three Bedrooms,0,.,.,.,.
+CM14,Four or More Bedrooms,0,.,.,.,.
+CM23,Room,0,.,.,.,.
+CM23,Studio,0,.,.,.,.
+CM23,One Bedroom,0,.,.,.,.
+CM23,Two Bedrooms,0,.,.,.,.
+CM23,Three Bedrooms,0,.,.,.,.
+CM23,Four or More Bedrooms,0,.,.,.,.
+CR0,Room,10,497,485,488,500
+CR0,Studio,60,852,785,850,920
+CR0,One Bedroom,410,991,900,950,1050
+CR0,Two Bedrooms,490,1267,1175,1250,1360
+CR0,Three Bedrooms,150,1537,1400,1500,1650
+CR0,Four or More Bedrooms,50,2181,1800,2000,2500
+CR2,Room,0,.,.,.,.
+CR2,Studio,10,766,700,750,800
+CR2,One Bedroom,50,960,900,965,1050
+CR2,Two Bedrooms,140,1205,1100,1200,1300
+CR2,Three Bedrooms,40,1501,1338,1450,1600
+CR2,Four or More Bedrooms,20,1971,1750,1900,2150
+CR3,Room,0,.,.,.,.
+CR3,Studio,0,.,.,.,.
+CR3,One Bedroom,0,.,.,.,.
+CR3,Two Bedrooms,-,..,..,..,..
+CR3,Three Bedrooms,-,..,..,..,..
+CR3,Four or More Bedrooms,-,..,..,..,..
+CR4,Room,0,.,.,.,.
+CR4,Studio,10,800,750,800,850
+CR4,One Bedroom,40,1003,900,1000,1099
+CR4,Two Bedrooms,60,1114,1029,1125,1250
+CR4,Three Bedrooms,30,1511,1400,1508,1650
+CR4,Four or More Bedrooms,10,2164,1700,1800,2195
+CR44,Room,0,.,.,.,.
+CR44,Studio,0,.,.,.,.
+CR44,One Bedroom,0,.,.,.,.
+CR44,Two Bedrooms,0,.,.,.,.
+CR44,Three Bedrooms,0,.,.,.,.
+CR44,Four or More Bedrooms,0,.,.,.,.
+CR5,Room,-,..,..,..,..
+CR5,Studio,-,..,..,..,..
+CR5,One Bedroom,20,910,825,875,975
+CR5,Two Bedrooms,50,1245,1100,1250,1413
+CR5,Three Bedrooms,30,1620,1500,1600,1790
+CR5,Four or More Bedrooms,20,2139,1790,1895,2500
+CR6,Room,0,.,.,.,.
+CR6,Studio,0,.,.,.,.
+CR6,One Bedroom,0,.,.,.,.
+CR6,Two Bedrooms,-,..,..,..,..
+CR6,Three Bedrooms,0,.,.,.,.
+CR6,Four or More Bedrooms,-,..,..,..,..
+CR7,Room,10,512,435,455,585
+CR7,Studio,10,808,775,785,900
+CR7,One Bedroom,30,987,895,999,1075
+CR7,Two Bedrooms,50,1247,1200,1250,1300
+CR7,Three Bedrooms,40,1547,1450,1550,1650
+CR7,Four or More Bedrooms,10,1905,1750,1923,2250
+CR8,Room,-,..,..,..,..
+CR8,Studio,10,758,675,775,800
+CR8,One Bedroom,40,924,825,918,990
+CR8,Two Bedrooms,100,1235,1130,1225,1300
+CR8,Three Bedrooms,30,1489,1350,1485,1550
+CR8,Four or More Bedrooms,20,2131,1850,2000,2305
+CR9,Room,0,.,.,.,.
+CR9,Studio,0,.,.,.,.
+CR9,One Bedroom,0,.,.,.,.
+CR9,Two Bedrooms,0,.,.,.,.
+CR9,Three Bedrooms,0,.,.,.,.
+CR9,Four or More Bedrooms,0,.,.,.,.
+CR90,Room,0,.,.,.,.
+CR90,Studio,0,.,.,.,.
+CR90,One Bedroom,0,.,.,.,.
+CR90,Two Bedrooms,0,.,.,.,.
+CR90,Three Bedrooms,0,.,.,.,.
+CR90,Four or More Bedrooms,0,.,.,.,.
+DA1,Room,0,.,.,.,.
+DA1,Studio,10,784,700,825,850
+DA1,One Bedroom,20,894,775,888,1000
+DA1,Two Bedrooms,20,1111,1000,1100,1200
+DA1,Three Bedrooms,10,1353,1280,1363,1430
+DA1,Four or More Bedrooms,10,1675,1550,1650,1700
+DA14,Room,10,419,392,392,450
+DA14,Studio,-,..,..,..,..
+DA14,One Bedroom,40,1031,950,1000,1100
+DA14,Two Bedrooms,100,1270,1150,1250,1350
+DA14,Three Bedrooms,40,1379,1250,1375,1500
+DA14,Four or More Bedrooms,10,2190,1829,2200,2500
+DA15,Room,100,799,787,808,808
+DA15,Studio,10,813,800,825,840
+DA15,One Bedroom,30,949,875,950,1025
+DA15,Two Bedrooms,50,1256,1170,1250,1300
+DA15,Three Bedrooms,30,1513,1400,1500,1600
+DA15,Four or More Bedrooms,10,1988,1850,2000,2000
+DA16,Room,0,.,.,.,.
+DA16,Studio,-,..,..,..,..
+DA16,One Bedroom,20,915,825,925,1000
+DA16,Two Bedrooms,40,1259,1200,1250,1350
+DA16,Three Bedrooms,50,1572,1500,1550,1700
+DA16,Four or More Bedrooms,10,1866,1700,1900,2050
+DA17,Room,0,.,.,.,.
+DA17,Studio,-,..,..,..,..
+DA17,One Bedroom,30,976,900,903,1050
+DA17,Two Bedrooms,40,1184,1100,1195,1250
+DA17,Three Bedrooms,20,1523,1398,1550,1598
+DA17,Four or More Bedrooms,0,.,.,.,.
+DA18,Room,0,.,.,.,.
+DA18,Studio,0,.,.,.,.
+DA18,One Bedroom,10,939,849,975,1095
+DA18,Two Bedrooms,-,..,..,..,..
+DA18,Three Bedrooms,20,1226,1175,1219,1321
+DA18,Four or More Bedrooms,10,1192,1121,1200,1300
+DA5,Room,-,..,..,..,..
+DA5,Studio,0,.,.,.,.
+DA5,One Bedroom,10,1158,1100,1175,1300
+DA5,Two Bedrooms,30,1236,1150,1250,1300
+DA5,Three Bedrooms,10,1508,1500,1550,1600
+DA5,Four or More Bedrooms,10,2071,2000,2100,2200
+DA6,Room,0,.,.,.,.
+DA6,Studio,-,..,..,..,..
+DA6,One Bedroom,10,1013,895,935,1200
+DA6,Two Bedrooms,20,1414,1097,1200,1298
+DA6,Three Bedrooms,10,1528,1300,1500,1670
+DA6,Four or More Bedrooms,-,..,..,..,..
+DA7,Room,0,.,.,.,.
+DA7,Studio,-,..,..,..,..
+DA7,One Bedroom,10,1007,925,1000,1100
+DA7,Two Bedrooms,40,1175,1020,1180,1275
+DA7,Three Bedrooms,30,1560,1375,1600,1700
+DA7,Four or More Bedrooms,-,..,..,..,..
+DA8,Room,0,.,.,.,.
+DA8,Studio,-,..,..,..,..
+DA8,One Bedroom,30,904,860,898,938
+DA8,Two Bedrooms,50,1208,1100,1225,1300
+DA8,Three Bedrooms,30,1420,1250,1363,1650
+DA8,Four or More Bedrooms,10,1774,1595,1900,2000
+E1,Room,10,602,492,612,692
+E1,Studio,10,1541,1250,1450,2000
+E1,One Bedroom,130,1533,1300,1450,1650
+E1,Two Bedrooms,140,1860,1600,1750,2000
+E1,Three Bedrooms,50,2183,1835,2000,2300
+E1,Four or More Bedrooms,10,3021,2600,3075,3484
+E10,Room,0,.,.,.,.
+E10,Studio,10,653,550,625,675
+E10,One Bedroom,60,1127,1045,1100,1225
+E10,Two Bedrooms,50,1368,1243,1350,1450
+E10,Three Bedrooms,30,1648,1500,1630,1788
+E10,Four or More Bedrooms,10,2055,1950,2000,2195
+E11,Room,30,838,642,692,886
+E11,Studio,20,802,750,775,850
+E11,One Bedroom,130,1106,1025,1100,1200
+E11,Two Bedrooms,190,1347,1250,1350,1450
+E11,Three Bedrooms,70,1725,1500,1700,1950
+E11,Four or More Bedrooms,30,2274,1912,2250,2400
+E12,Room,0,.,.,.,.
+E12,Studio,-,..,..,..,..
+E12,One Bedroom,30,1044,950,1050,1138
+E12,Two Bedrooms,30,1308,1250,1300,1400
+E12,Three Bedrooms,50,1622,1500,1600,1750
+E12,Four or More Bedrooms,20,1834,1768,1875,2125
+E13,Room,0,.,.,.,.
+E13,Studio,10,901,800,875,1000
+E13,One Bedroom,60,1084,1000,1050,1150
+E13,Two Bedrooms,70,1321,1250,1325,1400
+E13,Three Bedrooms,40,1575,1500,1600,1700
+E13,Four or More Bedrooms,10,2065,1850,2050,2250
+E14,Room,10,637,542,592,642
+E14,Studio,50,1340,1180,1300,1430
+E14,One Bedroom,250,1486,1300,1450,1650
+E14,Two Bedrooms,230,1746,1516,1700,1900
+E14,Three Bedrooms,70,2178,1800,2037,2625
+E14,Four or More Bedrooms,-,..,..,..,..
+E15,Room,10,1344,667,1517,1972
+E15,Studio,10,965,863,950,990
+E15,One Bedroom,400,1376,1278,1386,1490
+E15,Two Bedrooms,380,1676,1500,1650,1838
+E15,Three Bedrooms,130,2089,1750,2163,2395
+E15,Four or More Bedrooms,20,2052,1850,2000,2200
+E16,Room,0,.,.,.,.
+E16,Studio,50,1270,1215,1292,1343
+E16,One Bedroom,450,1337,1225,1325,1425
+E16,Two Bedrooms,480,1646,1510,1644,1763
+E16,Three Bedrooms,110,1913,1725,1900,2082
+E16,Four or More Bedrooms,10,2638,1900,2775,3300
+E17,Room,10,1817,1365,1668,2427
+E17,Studio,10,941,900,963,999
+E17,One Bedroom,230,1174,1075,1150,1280
+E17,Two Bedrooms,340,1395,1260,1400,1510
+E17,Three Bedrooms,140,1707,1550,1730,1850
+E17,Four or More Bedrooms,50,1970,1650,2000,2295
+E18,Room,0,.,.,.,.
+E18,Studio,10,774,725,815,895
+E18,One Bedroom,90,1123,1050,1100,1200
+E18,Two Bedrooms,150,1384,1275,1350,1460
+E18,Three Bedrooms,40,1679,1500,1650,1800
+E18,Four or More Bedrooms,10,2252,2000,2100,2400
+E1W,Room,0,.,.,.,.
+E1W,Studio,10,1237,1067,1157,1354
+E1W,One Bedroom,70,1541,1350,1517,1733
+E1W,Two Bedrooms,70,1899,1560,1755,2167
+E1W,Three Bedrooms,20,2369,2200,2392,2600
+E1W,Four or More Bedrooms,-,..,..,..,..
+E2,Room,-,..,..,..,..
+E2,Studio,-,..,..,..,..
+E2,One Bedroom,70,1377,1200,1325,1500
+E2,Two Bedrooms,70,1925,1675,1800,2058
+E2,Three Bedrooms,30,2163,1750,2205,2383
+E2,Four or More Bedrooms,10,2945,2800,3200,3250
+E20,Room,0,.,.,.,.
+E20,Studio,0,.,.,.,.
+E20,One Bedroom,10,1638,1575,1625,1700
+E20,Two Bedrooms,20,2013,1900,2000,2125
+E20,Three Bedrooms,-,..,..,..,..
+E20,Four or More Bedrooms,0,.,.,.,.
+E3,Room,0,.,.,.,.
+E3,Studio,20,1105,965,1150,1200
+E3,One Bedroom,110,1270,1175,1255,1365
+E3,Two Bedrooms,150,1574,1427,1550,1650
+E3,Three Bedrooms,50,2157,1900,2050,2300
+E3,Four or More Bedrooms,20,2818,2375,2850,3280
+E4,Room,-,..,..,..,..
+E4,Studio,-,..,..,..,..
+E4,One Bedroom,80,999,920,1000,1110
+E4,Two Bedrooms,100,1247,1150,1240,1348
+E4,Three Bedrooms,60,1582,1450,1550,1700
+E4,Four or More Bedrooms,10,1973,1775,2000,2200
+E5,Room,0,.,.,.,.
+E5,Studio,10,901,730,903,975
+E5,One Bedroom,50,1314,1175,1300,1450
+E5,Two Bedrooms,50,1679,1500,1650,1800
+E5,Three Bedrooms,30,2313,1900,2230,2650
+E5,Four or More Bedrooms,10,2734,2355,2800,3000
+E6,Room,-,..,..,..,..
+E6,Studio,-,..,..,..,..
+E6,One Bedroom,40,1038,1000,1000,1110
+E6,Two Bedrooms,60,1253,1200,1288,1350
+E6,Three Bedrooms,60,1581,1500,1600,1700
+E6,Four or More Bedrooms,10,1970,1750,1925,2100
+E7,Room,30,736,537,663,742
+E7,Studio,10,941,875,953,1047
+E7,One Bedroom,40,1054,1000,1100,1150
+E7,Two Bedrooms,50,1348,1250,1350,1450
+E7,Three Bedrooms,30,1594,1450,1517,1700
+E7,Four or More Bedrooms,20,2132,1900,2050,2200
+E77,Room,0,.,.,.,.
+E77,Studio,0,.,.,.,.
+E77,One Bedroom,0,.,.,.,.
+E77,Two Bedrooms,0,.,.,.,.
+E77,Three Bedrooms,0,.,.,.,.
+E77,Four or More Bedrooms,0,.,.,.,.
+E8,Room,-,..,..,..,..
+E8,Studio,20,1022,960,999,1115
+E8,One Bedroom,70,1536,1330,1475,1650
+E8,Two Bedrooms,170,1593,1365,1500,1733
+E8,Three Bedrooms,40,2279,1800,2230,2550
+E8,Four or More Bedrooms,10,3361,3000,3147,3559
+E9,Room,-,..,..,..,..
+E9,Studio,-,..,..,..,..
+E9,One Bedroom,40,1385,1250,1300,1500
+E9,Two Bedrooms,50,1733,1450,1650,1803
+E9,Three Bedrooms,30,2170,1718,2150,2575
+E9,Four or More Bedrooms,10,3244,3100,3402,3466
+E98,Room,0,.,.,.,.
+E98,Studio,0,.,.,.,.
+E98,One Bedroom,0,.,.,.,.
+E98,Two Bedrooms,0,.,.,.,.
+E98,Three Bedrooms,0,.,.,.,.
+E98,Four or More Bedrooms,0,.,.,.,.
+EC1A,Room,0,.,.,.,.
+EC1A,Studio,10,1435,1350,1365,1582
+EC1A,One Bedroom,20,1759,1550,1712,1915
+EC1A,Two Bedrooms,10,2318,2167,2492,2600
+EC1A,Three Bedrooms,0,.,.,.,.
+EC1A,Four or More Bedrooms,0,.,.,.,.
+EC1M,Room,0,.,.,.,.
+EC1M,Studio,10,1452,1170,1250,1400
+EC1M,One Bedroom,10,2113,2025,2075,2243
+EC1M,Two Bedrooms,0,.,.,.,.
+EC1M,Three Bedrooms,0,.,.,.,.
+EC1M,Four or More Bedrooms,0,.,.,.,.
+EC1N,Room,0,.,.,.,.
+EC1N,Studio,-,..,..,..,..
+EC1N,One Bedroom,10,1566,1450,1593,1668
+EC1N,Two Bedrooms,10,2139,1800,2027,2363
+EC1N,Three Bedrooms,-,..,..,..,..
+EC1N,Four or More Bedrooms,-,..,..,..,..
+EC1P,Room,0,.,.,.,.
+EC1P,Studio,0,.,.,.,.
+EC1P,One Bedroom,0,.,.,.,.
+EC1P,Two Bedrooms,0,.,.,.,.
+EC1P,Three Bedrooms,0,.,.,.,.
+EC1P,Four or More Bedrooms,0,.,.,.,.
+EC1R,Room,0,.,.,.,.
+EC1R,Studio,-,..,..,..,..
+EC1R,One Bedroom,10,1671,1550,1690,1850
+EC1R,Two Bedrooms,10,2110,1825,1970,2475
+EC1R,Three Bedrooms,-,..,..,..,..
+EC1R,Four or More Bedrooms,0,.,.,.,.
+EC1V,Room,0,.,.,.,.
+EC1V,Studio,0,.,.,.,.
+EC1V,One Bedroom,30,1786,1440,1721,2010
+EC1V,Two Bedrooms,30,2318,1904,2307,2600
+EC1V,Three Bedrooms,10,3165,2850,2916,3770
+EC1V,Four or More Bedrooms,10,3988,3100,4615,4673
+EC1Y,Room,0,.,.,.,.
+EC1Y,Studio,10,1582,1300,1625,1842
+EC1Y,One Bedroom,10,1820,1544,1733,2144
+EC1Y,Two Bedrooms,20,2657,2300,2692,3000
+EC1Y,Three Bedrooms,10,3056,2500,2917,3500
+EC1Y,Four or More Bedrooms,0,.,.,.,.
+EC2A,Room,0,.,.,.,.
+EC2A,Studio,10,1154,1050,1125,1200
+EC2A,One Bedroom,10,1803,1473,1778,2000
+EC2A,Two Bedrooms,20,2574,1950,2500,3033
+EC2A,Three Bedrooms,-,..,..,..,..
+EC2A,Four or More Bedrooms,-,..,..,..,..
+EC2M,Room,0,.,.,.,.
+EC2M,Studio,0,.,.,.,.
+EC2M,One Bedroom,0,.,.,.,.
+EC2M,Two Bedrooms,0,.,.,.,.
+EC2M,Three Bedrooms,0,.,.,.,.
+EC2M,Four or More Bedrooms,0,.,.,.,.
+EC2N,Room,0,.,.,.,.
+EC2N,Studio,0,.,.,.,.
+EC2N,One Bedroom,0,.,.,.,.
+EC2N,Two Bedrooms,0,.,.,.,.
+EC2N,Three Bedrooms,0,.,.,.,.
+EC2N,Four or More Bedrooms,0,.,.,.,.
+EC2P,Room,0,.,.,.,.
+EC2P,Studio,0,.,.,.,.
+EC2P,One Bedroom,0,.,.,.,.
+EC2P,Two Bedrooms,0,.,.,.,.
+EC2P,Three Bedrooms,0,.,.,.,.
+EC2P,Four or More Bedrooms,0,.,.,.,.
+EC2R,Room,0,.,.,.,.
+EC2R,Studio,0,.,.,.,.
+EC2R,One Bedroom,0,.,.,.,.
+EC2R,Two Bedrooms,0,.,.,.,.
+EC2R,Three Bedrooms,0,.,.,.,.
+EC2R,Four or More Bedrooms,0,.,.,.,.
+EC2V,Room,0,.,.,.,.
+EC2V,Studio,0,.,.,.,.
+EC2V,One Bedroom,0,.,.,.,.
+EC2V,Two Bedrooms,0,.,.,.,.
+EC2V,Three Bedrooms,0,.,.,.,.
+EC2V,Four or More Bedrooms,0,.,.,.,.
+EC2Y,Room,0,.,.,.,.
+EC2Y,Studio,10,1888,1473,1820,2075
+EC2Y,One Bedroom,10,2053,1647,1874,2438
+EC2Y,Two Bedrooms,10,2511,2427,2557,2687
+EC2Y,Three Bedrooms,-,..,..,..,..
+EC2Y,Four or More Bedrooms,-,..,..,..,..
+EC3A,Room,0,.,.,.,.
+EC3A,Studio,0,.,.,.,.
+EC3A,One Bedroom,0,.,.,.,.
+EC3A,Two Bedrooms,0,.,.,.,.
+EC3A,Three Bedrooms,0,.,.,.,.
+EC3A,Four or More Bedrooms,0,.,.,.,.
+EC3B,Room,0,.,.,.,.
+EC3B,Studio,0,.,.,.,.
+EC3B,One Bedroom,0,.,.,.,.
+EC3B,Two Bedrooms,0,.,.,.,.
+EC3B,Three Bedrooms,0,.,.,.,.
+EC3B,Four or More Bedrooms,0,.,.,.,.
+EC3M,Room,0,.,.,.,.
+EC3M,Studio,0,.,.,.,.
+EC3M,One Bedroom,0,.,.,.,.
+EC3M,Two Bedrooms,0,.,.,.,.
+EC3M,Three Bedrooms,0,.,.,.,.
+EC3M,Four or More Bedrooms,0,.,.,.,.
+EC3N,Room,0,.,.,.,.
+EC3N,Studio,-,..,..,..,..
+EC3N,One Bedroom,-,..,..,..,..
+EC3N,Two Bedrooms,-,..,..,..,..
+EC3N,Three Bedrooms,0,.,.,.,.
+EC3N,Four or More Bedrooms,0,.,.,.,.
+EC3P,Room,0,.,.,.,.
+EC3P,Studio,0,.,.,.,.
+EC3P,One Bedroom,0,.,.,.,.
+EC3P,Two Bedrooms,0,.,.,.,.
+EC3P,Three Bedrooms,0,.,.,.,.
+EC3P,Four or More Bedrooms,0,.,.,.,.
+EC3R,Room,0,.,.,.,.
+EC3R,Studio,-,..,..,..,..
+EC3R,One Bedroom,10,1914,1790,1818,2025
+EC3R,Two Bedrooms,-,..,..,..,..
+EC3R,Three Bedrooms,0,.,.,.,.
+EC3R,Four or More Bedrooms,0,.,.,.,.
+EC3V,Room,0,.,.,.,.
+EC3V,Studio,0,.,.,.,.
+EC3V,One Bedroom,0,.,.,.,.
+EC3V,Two Bedrooms,0,.,.,.,.
+EC3V,Three Bedrooms,0,.,.,.,.
+EC3V,Four or More Bedrooms,0,.,.,.,.
+EC4A,Room,0,.,.,.,.
+EC4A,Studio,10,1215,950,1250,1300
+EC4A,One Bedroom,20,1641,1478,1668,1776
+EC4A,Two Bedrooms,10,2073,1600,2250,2297
+EC4A,Three Bedrooms,-,..,..,..,..
+EC4A,Four or More Bedrooms,0,.,.,.,.
+EC4M,Room,0,.,.,.,.
+EC4M,Studio,-,..,..,..,..
+EC4M,One Bedroom,10,2050,1625,1750,2444
+EC4M,Two Bedrooms,-,..,..,..,..
+EC4M,Three Bedrooms,-,..,..,..,..
+EC4M,Four or More Bedrooms,0,.,.,.,.
+EC4N,Room,0,.,.,.,.
+EC4N,Studio,0,.,.,.,.
+EC4N,One Bedroom,0,.,.,.,.
+EC4N,Two Bedrooms,0,.,.,.,.
+EC4N,Three Bedrooms,0,.,.,.,.
+EC4N,Four or More Bedrooms,0,.,.,.,.
+EC4P,Room,0,.,.,.,.
+EC4P,Studio,0,.,.,.,.
+EC4P,One Bedroom,0,.,.,.,.
+EC4P,Two Bedrooms,0,.,.,.,.
+EC4P,Three Bedrooms,0,.,.,.,.
+EC4P,Four or More Bedrooms,0,.,.,.,.
+EC4R,Room,0,.,.,.,.
+EC4R,Studio,0,.,.,.,.
+EC4R,One Bedroom,-,..,..,..,..
+EC4R,Two Bedrooms,-,..,..,..,..
+EC4R,Three Bedrooms,0,.,.,.,.
+EC4R,Four or More Bedrooms,0,.,.,.,.
+EC4V,Room,0,.,.,.,.
+EC4V,Studio,0,.,.,.,.
+EC4V,One Bedroom,10,1682,1500,1645,1805
+EC4V,Two Bedrooms,10,2199,2100,2297,2308
+EC4V,Three Bedrooms,0,.,.,.,.
+EC4V,Four or More Bedrooms,0,.,.,.,.
+EC4Y,Room,0,.,.,.,.
+EC4Y,Studio,0,.,.,.,.
+EC4Y,One Bedroom,-,..,..,..,..
+EC4Y,Two Bedrooms,-,..,..,..,..
+EC4Y,Three Bedrooms,0,.,.,.,.
+EC4Y,Four or More Bedrooms,0,.,.,.,.
+EC50,Room,0,.,.,.,.
+EC50,Studio,0,.,.,.,.
+EC50,One Bedroom,0,.,.,.,.
+EC50,Two Bedrooms,0,.,.,.,.
+EC50,Three Bedrooms,0,.,.,.,.
+EC50,Four or More Bedrooms,0,.,.,.,.
+EC88,Room,0,.,.,.,.
+EC88,Studio,0,.,.,.,.
+EC88,One Bedroom,0,.,.,.,.
+EC88,Two Bedrooms,0,.,.,.,.
+EC88,Three Bedrooms,0,.,.,.,.
+EC88,Four or More Bedrooms,0,.,.,.,.
+EN1,Room,0,.,.,.,.
+EN1,Studio,10,823,800,838,900
+EN1,One Bedroom,60,998,918,958,1093
+EN1,Two Bedrooms,60,1280,1200,1263,1350
+EN1,Three Bedrooms,30,1557,1500,1555,1650
+EN1,Four or More Bedrooms,10,1995,1825,1900,2150
+EN2,Room,0,.,.,.,.
+EN2,Studio,20,712,625,670,795
+EN2,One Bedroom,50,1034,980,1025,1100
+EN2,Two Bedrooms,60,1378,1250,1350,1500
+EN2,Three Bedrooms,40,1698,1550,1700,1800
+EN2,Four or More Bedrooms,10,2198,1850,2100,2150
+EN3,Room,10,948,918,918,918
+EN3,Studio,10,870,850,875,900
+EN3,One Bedroom,50,1003,910,1000,1050
+EN3,Two Bedrooms,70,1273,1200,1300,1350
+EN3,Three Bedrooms,50,1571,1450,1596,1700
+EN3,Four or More Bedrooms,10,1725,1500,1610,1895
+EN4,Room,0,.,.,.,.
+EN4,Studio,-,..,..,..,..
+EN4,One Bedroom,20,1092,1000,1075,1150
+EN4,Two Bedrooms,90,1320,1122,1286,1395
+EN4,Three Bedrooms,30,1696,1350,1625,1900
+EN4,Four or More Bedrooms,10,2825,2100,2400,3325
+EN5,Room,0,.,.,.,.
+EN5,Studio,20,850,800,850,900
+EN5,One Bedroom,60,1106,1000,1100,1195
+EN5,Two Bedrooms,90,1325,1225,1325,1450
+EN5,Three Bedrooms,20,1702,1500,1613,1800
+EN5,Four or More Bedrooms,20,2601,2200,2400,2750
+EN6,Room,0,.,.,.,.
+EN6,Studio,0,.,.,.,.
+EN6,One Bedroom,0,.,.,.,.
+EN6,Two Bedrooms,0,.,.,.,.
+EN6,Three Bedrooms,0,.,.,.,.
+EN6,Four or More Bedrooms,0,.,.,.,.
+EN7,Room,0,.,.,.,.
+EN7,Studio,0,.,.,.,.
+EN7,One Bedroom,0,.,.,.,.
+EN7,Two Bedrooms,0,.,.,.,.
+EN7,Three Bedrooms,0,.,.,.,.
+EN7,Four or More Bedrooms,0,.,.,.,.
+EN8,Room,0,.,.,.,.
+EN8,Studio,0,.,.,.,.
+EN8,One Bedroom,0,.,.,.,.
+EN8,Two Bedrooms,-,..,..,..,..
+EN8,Three Bedrooms,0,.,.,.,.
+EN8,Four or More Bedrooms,0,.,.,.,.
+EN9,Room,0,.,.,.,.
+EN9,Studio,0,.,.,.,.
+EN9,One Bedroom,0,.,.,.,.
+EN9,Two Bedrooms,0,.,.,.,.
+EN9,Three Bedrooms,0,.,.,.,.
+EN9,Four or More Bedrooms,0,.,.,.,.
+HA0,Room,-,..,..,..,..
+HA0,Studio,30,896,850,900,1000
+HA0,One Bedroom,80,1138,1050,1150,1225
+HA0,Two Bedrooms,90,1393,1300,1400,1475
+HA0,Three Bedrooms,100,1757,1650,1750,1850
+HA0,Four or More Bedrooms,20,2208,2100,2200,2400
+HA1,Room,10,600,500,525,775
+HA1,Studio,20,880,800,950,950
+HA1,One Bedroom,130,1154,1000,1150,1250
+HA1,Two Bedrooms,180,1390,1250,1350,1500
+HA1,Three Bedrooms,60,1612,1498,1650,1750
+HA1,Four or More Bedrooms,10,2181,1850,2400,2495
+HA2,Room,10,627,490,570,767
+HA2,Studio,10,829,700,850,900
+HA2,One Bedroom,60,1028,950,1000,1115
+HA2,Two Bedrooms,100,1335,1225,1300,1375
+HA2,Three Bedrooms,90,1620,1500,1600,1700
+HA2,Four or More Bedrooms,20,2033,1750,2100,2300
+HA3,Room,10,442,400,425,470
+HA3,Studio,20,750,650,750,875
+HA3,One Bedroom,100,1030,950,1050,1100
+HA3,Two Bedrooms,190,1309,1200,1275,1350
+HA3,Three Bedrooms,210,1660,1550,1650,1775
+HA3,Four or More Bedrooms,80,2068,1850,2000,2247
+HA4,Room,0,.,.,.,.
+HA4,Studio,-,..,..,..,..
+HA4,One Bedroom,10,1096,1050,1050,1175
+HA4,Two Bedrooms,40,1351,1250,1338,1495
+HA4,Three Bedrooms,10,1598,1450,1600,1700
+HA4,Four or More Bedrooms,10,2583,2050,2500,3000
+HA5,Room,0,.,.,.,.
+HA5,Studio,10,718,700,700,745
+HA5,One Bedroom,20,1125,900,1063,1220
+HA5,Two Bedrooms,70,1354,1250,1300,1400
+HA5,Three Bedrooms,30,1720,1500,1769,1900
+HA5,Four or More Bedrooms,10,2031,1775,2125,2450
+HA6,Room,0,.,.,.,.
+HA6,Studio,-,..,..,..,..
+HA6,One Bedroom,40,894,850,875,950
+HA6,Two Bedrooms,60,1144,878,1200,1250
+HA6,Three Bedrooms,10,1718,1550,1700,1980
+HA6,Four or More Bedrooms,10,2608,2000,2350,2750
+HA7,Room,0,.,.,.,.
+HA7,Studio,-,..,..,..,..
+HA7,One Bedroom,60,1165,1050,1100,1250
+HA7,Two Bedrooms,130,1379,1295,1375,1500
+HA7,Three Bedrooms,100,1720,1600,1700,1800
+HA7,Four or More Bedrooms,30,2291,1875,2075,2500
+HA8,Room,10,439,407,492,562
+HA8,Studio,10,808,700,800,900
+HA8,One Bedroom,40,1079,998,1100,1150
+HA8,Two Bedrooms,130,1395,1300,1350,1450
+HA8,Three Bedrooms,110,1752,1600,1700,1850
+HA8,Four or More Bedrooms,30,2098,1850,2000,2275
+HA9,Room,10,658,550,700,725
+HA9,Studio,10,1025,838,925,1288
+HA9,One Bedroom,90,1196,1100,1163,1250
+HA9,Two Bedrooms,140,1462,1350,1400,1550
+HA9,Three Bedrooms,70,1739,1650,1750,1850
+HA9,Four or More Bedrooms,40,2122,1875,2100,2300
+IG1,Room,10,1172,592,1213,1365
+IG1,Studio,10,792,750,800,850
+IG1,One Bedroom,60,1016,938,1013,1100
+IG1,Two Bedrooms,80,1251,1200,1250,1300
+IG1,Three Bedrooms,30,1561,1460,1600,1700
+IG1,Four or More Bedrooms,10,1993,1600,1900,2600
+IG11,Room,10,770,323,698,1062
+IG11,Studio,10,741,730,730,750
+IG11,One Bedroom,190,1083,1000,1058,1195
+IG11,Two Bedrooms,290,1358,1250,1375,1500
+IG11,Three Bedrooms,100,1602,1485,1600,1700
+IG11,Four or More Bedrooms,20,1801,1650,1805,1900
+IG2,Room,-,..,..,..,..
+IG2,Studio,-,..,..,..,..
+IG2,One Bedroom,50,1042,950,1050,1100
+IG2,Two Bedrooms,60,1245,1150,1250,1338
+IG2,Three Bedrooms,40,1653,1595,1650,1745
+IG2,Four or More Bedrooms,10,2069,1900,2000,2275
+IG3,Room,10,782,637,637,983
+IG3,Studio,10,698,678,776,826
+IG3,One Bedroom,40,975,900,1000,1035
+IG3,Two Bedrooms,20,1183,1200,1200,1298
+IG3,Three Bedrooms,20,1534,1425,1550,1650
+IG3,Four or More Bedrooms,10,1898,1675,1900,2000
+IG4,Room,10,667,667,692,692
+IG4,Studio,-,..,..,..,..
+IG4,One Bedroom,-,..,..,..,..
+IG4,Two Bedrooms,-,..,..,..,..
+IG4,Three Bedrooms,-,..,..,..,..
+IG4,Four or More Bedrooms,-,..,..,..,..
+IG5,Room,10,577,592,592,592
+IG5,Studio,10,940,900,950,1035
+IG5,One Bedroom,10,1053,950,1075,1100
+IG5,Two Bedrooms,10,1233,1125,1250,1325
+IG5,Three Bedrooms,10,1588,1525,1650,1700
+IG5,Four or More Bedrooms,10,1924,1785,1875,2000
+IG6,Room,10,665,633,633,717
+IG6,Studio,0,.,.,.,.
+IG6,One Bedroom,40,1042,950,1050,1150
+IG6,Two Bedrooms,50,1278,1150,1250,1350
+IG6,Three Bedrooms,50,1584,1500,1650,1700
+IG6,Four or More Bedrooms,10,1969,1800,1900,2100
+IG7,Room,-,..,..,..,..
+IG7,Studio,0,.,.,.,.
+IG7,One Bedroom,10,1005,950,998,1050
+IG7,Two Bedrooms,10,1296,1175,1323,1388
+IG7,Three Bedrooms,10,1524,1440,1550,1650
+IG7,Four or More Bedrooms,-,..,..,..,..
+IG8,Room,-,..,..,..,..
+IG8,Studio,-,..,..,..,..
+IG8,One Bedroom,20,1057,975,1100,1175
+IG8,Two Bedrooms,100,1373,1250,1350,1400
+IG8,Three Bedrooms,50,1633,1500,1613,1700
+IG8,Four or More Bedrooms,30,2141,1850,2050,2488
+IG9,Room,0,.,.,.,.
+IG9,Studio,0,.,.,.,.
+IG9,One Bedroom,-,..,..,..,..
+IG9,Two Bedrooms,-,..,..,..,..
+IG9,Three Bedrooms,-,..,..,..,..
+IG9,Four or More Bedrooms,0,.,.,.,.
+KT1,Room,0,.,.,.,.
+KT1,Studio,10,899,875,900,920
+KT1,One Bedroom,60,1122,1025,1100,1195
+KT1,Two Bedrooms,60,1478,1350,1450,1600
+KT1,Three Bedrooms,20,2065,1650,1950,2500
+KT1,Four or More Bedrooms,20,2477,2000,2350,2650
+KT17,Room,0,.,.,.,.
+KT17,Studio,0,.,.,.,.
+KT17,One Bedroom,0,.,.,.,.
+KT17,Two Bedrooms,0,.,.,.,.
+KT17,Three Bedrooms,0,.,.,.,.
+KT17,Four or More Bedrooms,0,.,.,.,.
+KT18,Room,0,.,.,.,.
+KT18,Studio,0,.,.,.,.
+KT18,One Bedroom,0,.,.,.,.
+KT18,Two Bedrooms,0,.,.,.,.
+KT18,Three Bedrooms,0,.,.,.,.
+KT18,Four or More Bedrooms,0,.,.,.,.
+KT19,Room,0,.,.,.,.
+KT19,Studio,0,.,.,.,.
+KT19,One Bedroom,0,.,.,.,.
+KT19,Two Bedrooms,0,.,.,.,.
+KT19,Three Bedrooms,0,.,.,.,.
+KT19,Four or More Bedrooms,0,.,.,.,.
+KT2,Room,0,.,.,.,.
+KT2,Studio,-,..,..,..,..
+KT2,One Bedroom,50,1199,1100,1188,1300
+KT2,Two Bedrooms,110,1487,1300,1413,1600
+KT2,Three Bedrooms,30,2011,1750,1900,2350
+KT2,Four or More Bedrooms,20,3742,2800,3313,3825
+KT22,Room,0,.,.,.,.
+KT22,Studio,0,.,.,.,.
+KT22,One Bedroom,0,.,.,.,.
+KT22,Two Bedrooms,0,.,.,.,.
+KT22,Three Bedrooms,0,.,.,.,.
+KT22,Four or More Bedrooms,0,.,.,.,.
+KT3,Room,0,.,.,.,.
+KT3,Studio,-,..,..,..,..
+KT3,One Bedroom,20,1088,1000,1065,1200
+KT3,Two Bedrooms,50,1278,1200,1254,1400
+KT3,Three Bedrooms,40,1786,1500,1725,2000
+KT3,Four or More Bedrooms,20,2395,2100,2475,2600
+KT4,Room,0,.,.,.,.
+KT4,Studio,-,..,..,..,..
+KT4,One Bedroom,20,1010,950,1000,1100
+KT4,Two Bedrooms,30,1358,1225,1350,1500
+KT4,Three Bedrooms,10,1908,1650,1750,2250
+KT4,Four or More Bedrooms,10,2506,2300,2450,2750
+KT5,Room,-,..,..,..,..
+KT5,Studio,10,888,850,850,925
+KT5,One Bedroom,40,1024,938,1038,1100
+KT5,Two Bedrooms,20,1348,1200,1300,1400
+KT5,Three Bedrooms,20,1911,1800,1850,2000
+KT5,Four or More Bedrooms,10,2516,2075,2513,2725
+KT6,Room,0,.,.,.,.
+KT6,Studio,10,844,800,875,895
+KT6,One Bedroom,60,1102,1050,1100,1175
+KT6,Two Bedrooms,100,1374,1200,1350,1485
+KT6,Three Bedrooms,30,1665,1350,1615,1800
+KT6,Four or More Bedrooms,10,2769,2500,2675,3000
+KT7,Room,0,.,.,.,.
+KT7,Studio,0,.,.,.,.
+KT7,One Bedroom,0,.,.,.,.
+KT7,Two Bedrooms,0,.,.,.,.
+KT7,Three Bedrooms,0,.,.,.,.
+KT7,Four or More Bedrooms,0,.,.,.,.
+KT8,Room,0,.,.,.,.
+KT8,Studio,-,..,..,..,..
+KT8,One Bedroom,0,.,.,.,.
+KT8,Two Bedrooms,-,..,..,..,..
+KT8,Three Bedrooms,0,.,.,.,.
+KT8,Four or More Bedrooms,0,.,.,.,.
+KT9,Room,0,.,.,.,.
+KT9,Studio,0,.,.,.,.
+KT9,One Bedroom,10,923,813,903,1050
+KT9,Two Bedrooms,20,1264,1200,1300,1400
+KT9,Three Bedrooms,10,1649,1400,1625,1750
+KT9,Four or More Bedrooms,-,..,..,..,..
+N1,Room,10,700,675,700,700
+N1,Studio,30,1291,1148,1254,1378
+N1,One Bedroom,280,1662,1400,1609,1800
+N1,Two Bedrooms,290,2123,1795,2100,2383
+N1,Three Bedrooms,90,2925,2463,2775,3275
+N1,Four or More Bedrooms,40,3619,2988,3440,4149
+N10,Room,10,668,632,692,702
+N10,Studio,20,861,802,875,945
+N10,One Bedroom,60,1285,1200,1275,1368
+N10,Two Bedrooms,140,1544,1375,1450,1700
+N10,Three Bedrooms,40,1899,1473,1825,2200
+N10,Four or More Bedrooms,60,2221,1603,1750,2492
+N11,Room,-,..,..,..,..
+N11,Studio,10,697,550,658,825
+N11,One Bedroom,90,1128,1040,1126,1250
+N11,Two Bedrooms,140,1397,1275,1363,1500
+N11,Three Bedrooms,50,1821,1560,1800,1950
+N11,Four or More Bedrooms,30,2213,1975,2200,2300
+N12,Room,0,.,.,.,.
+N12,Studio,10,941,850,950,953
+N12,One Bedroom,110,1161,1100,1165,1250
+N12,Two Bedrooms,240,1392,1300,1375,1500
+N12,Three Bedrooms,60,1914,1750,1925,2000
+N12,Four or More Bedrooms,20,2132,2025,2250,2485
+N13,Room,-,..,..,..,..
+N13,Studio,10,878,800,900,950
+N13,One Bedroom,30,1080,975,1038,1150
+N13,Two Bedrooms,50,1302,1200,1300,1400
+N13,Three Bedrooms,20,1728,1500,1700,1800
+N13,Four or More Bedrooms,10,2007,1800,1950,2100
+N14,Room,0,.,.,.,.
+N14,Studio,-,..,..,..,..
+N14,One Bedroom,20,1135,1100,1143,1200
+N14,Two Bedrooms,50,1379,1300,1365,1450
+N14,Three Bedrooms,30,1905,1650,1900,2150
+N14,Four or More Bedrooms,10,2314,1950,2225,2775
+N15,Room,20,669,573,632,692
+N15,Studio,20,862,800,900,950
+N15,One Bedroom,60,1117,1000,1100,1200
+N15,Two Bedrooms,40,1337,1200,1400,1500
+N15,Three Bedrooms,30,1801,1500,1675,1925
+N15,Four or More Bedrooms,20,2210,2000,2200,2400
+N16,Room,-,..,..,..,..
+N16,Studio,10,1010,850,1000,1150
+N16,One Bedroom,160,1336,1200,1320,1473
+N16,Two Bedrooms,120,1664,1500,1625,1800
+N16,Three Bedrooms,60,2238,1950,2215,2500
+N16,Four or More Bedrooms,30,3027,2600,3025,3350
+N17,Room,30,589,507,592,677
+N17,Studio,20,904,800,850,1013
+N17,One Bedroom,50,1141,1000,1090,1275
+N17,Two Bedrooms,50,1361,1250,1300,1495
+N17,Three Bedrooms,30,1684,1550,1675,1850
+N17,Four or More Bedrooms,20,1884,1750,1810,2000
+N18,Room,-,..,..,..,..
+N18,Studio,-,..,..,..,..
+N18,One Bedroom,10,996,925,973,1075
+N18,Two Bedrooms,20,1304,1250,1325,1360
+N18,Three Bedrooms,30,1511,1341,1550,1650
+N18,Four or More Bedrooms,-,..,..,..,..
+N19,Room,30,677,569,685,749
+N19,Studio,30,1022,900,981,1100
+N19,One Bedroom,110,1300,1190,1300,1400
+N19,Two Bedrooms,80,1563,1400,1517,1690
+N19,Three Bedrooms,50,2155,1800,2100,2250
+N19,Four or More Bedrooms,30,2756,2440,2790,3100
+N1C,Room,0,.,.,.,.
+N1C,Studio,0,.,.,.,.
+N1C,One Bedroom,-,..,..,..,..
+N1C,Two Bedrooms,10,2959,2600,2925,3250
+N1C,Three Bedrooms,20,3673,3575,3683,3683
+N1C,Four or More Bedrooms,0,.,.,.,.
+N1P,Room,0,.,.,.,.
+N1P,Studio,0,.,.,.,.
+N1P,One Bedroom,0,.,.,.,.
+N1P,Two Bedrooms,0,.,.,.,.
+N1P,Three Bedrooms,0,.,.,.,.
+N1P,Four or More Bedrooms,0,.,.,.,.
+N2,Room,0,.,.,.,.
+N2,Studio,20,1029,925,1000,1100
+N2,One Bedroom,100,1190,1100,1200,1300
+N2,Two Bedrooms,200,1501,1375,1475,1600
+N2,Three Bedrooms,80,1895,1575,1758,2000
+N2,Four or More Bedrooms,60,2808,2300,2900,3250
+N20,Room,0,.,.,.,.
+N20,Studio,10,885,775,825,950
+N20,One Bedroom,30,1186,1050,1175,1335
+N20,Two Bedrooms,70,1432,1250,1400,1540
+N20,Three Bedrooms,30,1803,1600,1763,1960
+N20,Four or More Bedrooms,20,2534,2100,2450,2990
+N21,Room,0,.,.,.,.
+N21,Studio,0,.,.,.,.
+N21,One Bedroom,10,1102,1000,1100,1200
+N21,Two Bedrooms,40,1368,1250,1350,1475
+N21,Three Bedrooms,10,1744,1650,1800,1900
+N21,Four or More Bedrooms,10,2574,2400,2650,2750
+N22,Room,10,597,563,600,642
+N22,Studio,10,787,700,762,800
+N22,One Bedroom,40,1152,975,1163,1300
+N22,Two Bedrooms,60,1483,1350,1450,1600
+N22,Three Bedrooms,30,1852,1600,1800,1950
+N22,Four or More Bedrooms,20,2256,1825,2100,2800
+N3,Room,-,..,..,..,..
+N3,Studio,10,827,700,950,1047
+N3,One Bedroom,110,1204,1092,1200,1313
+N3,Two Bedrooms,220,1429,1300,1400,1550
+N3,Three Bedrooms,80,1938,1750,1900,2103
+N3,Four or More Bedrooms,30,2524,2200,2500,2800
+N4,Room,50,653,557,671,739
+N4,Studio,70,891,775,850,950
+N4,One Bedroom,160,1290,1100,1250,1400
+N4,Two Bedrooms,150,1634,1400,1605,1750
+N4,Three Bedrooms,60,2141,1798,2000,2500
+N4,Four or More Bedrooms,50,2716,2250,2698,3100
+N5,Room,-,..,..,..,..
+N5,Studio,10,1103,900,1100,1200
+N5,One Bedroom,100,1527,1323,1500,1679
+N5,Two Bedrooms,100,2108,1750,2000,2303
+N5,Three Bedrooms,20,2532,2383,2525,2817
+N5,Four or More Bedrooms,10,3573,3033,3770,3868
+N6,Room,-,..,..,..,..
+N6,Studio,20,940,791,880,1135
+N6,One Bedroom,70,1458,1350,1447,1513
+N6,Two Bedrooms,120,1910,1625,1842,2100
+N6,Three Bedrooms,40,2397,1907,2145,2656
+N6,Four or More Bedrooms,20,4152,2950,3683,4500
+N7,Room,10,575,442,618,665
+N7,Studio,10,1011,900,975,1130
+N7,One Bedroom,220,1424,1275,1400,1550
+N7,Two Bedrooms,150,1772,1450,1690,1905
+N7,Three Bedrooms,100,2182,1800,2000,2470
+N7,Four or More Bedrooms,30,3071,2300,2995,3900
+N8,Room,30,667,592,664,765
+N8,Studio,50,917,754,925,999
+N8,One Bedroom,190,1280,1200,1300,1350
+N8,Two Bedrooms,190,1544,1375,1520,1650
+N8,Three Bedrooms,40,1906,1603,1850,2200
+N8,Four or More Bedrooms,40,2646,2040,2495,2900
+N81,Room,0,.,.,.,.
+N81,Studio,0,.,.,.,.
+N81,One Bedroom,0,.,.,.,.
+N81,Two Bedrooms,0,.,.,.,.
+N81,Three Bedrooms,0,.,.,.,.
+N81,Four or More Bedrooms,0,.,.,.,.
+N9,Room,-,..,..,..,..
+N9,Studio,10,769,700,775,850
+N9,One Bedroom,20,1004,950,1000,1071
+N9,Two Bedrooms,20,1346,1298,1325,1413
+N9,Three Bedrooms,20,1600,1575,1600,1650
+N9,Four or More Bedrooms,10,1905,1825,1850,2000
+NW1,Room,0,.,.,.,.
+NW1,Studio,20,1210,1083,1281,1281
+NW1,One Bedroom,110,1799,1517,1780,2000
+NW1,Two Bedrooms,100,2435,1841,2210,3000
+NW1,Three Bedrooms,40,3451,2400,3013,3775
+NW1,Four or More Bedrooms,20,4512,3575,4225,4767
+NW10,Room,20,585,500,600,650
+NW10,Studio,30,850,750,850,900
+NW10,One Bedroom,70,1168,1075,1150,1250
+NW10,Two Bedrooms,160,1586,1400,1600,1775
+NW10,Three Bedrooms,60,1901,1675,1857,2075
+NW10,Four or More Bedrooms,30,2579,2100,2492,2750
+NW11,Room,0,.,.,.,.
+NW11,Studio,10,1031,950,1050,1100
+NW11,One Bedroom,20,1223,1120,1200,1350
+NW11,Two Bedrooms,30,1581,1425,1600,1750
+NW11,Three Bedrooms,10,2088,1650,1983,2375
+NW11,Four or More Bedrooms,10,3357,2438,3120,3791
+NW1W,Room,0,.,.,.,.
+NW1W,Studio,0,.,.,.,.
+NW1W,One Bedroom,0,.,.,.,.
+NW1W,Two Bedrooms,0,.,.,.,.
+NW1W,Three Bedrooms,0,.,.,.,.
+NW1W,Four or More Bedrooms,0,.,.,.,.
+NW2,Room,-,..,..,..,..
+NW2,Studio,20,910,800,925,1000
+NW2,One Bedroom,70,1260,1175,1250,1337
+NW2,Two Bedrooms,90,1572,1450,1508,1608
+NW2,Three Bedrooms,70,1948,1800,1950,2075
+NW2,Four or More Bedrooms,30,2269,2000,2250,2400
+NW26,Room,0,.,.,.,.
+NW26,Studio,0,.,.,.,.
+NW26,One Bedroom,0,.,.,.,.
+NW26,Two Bedrooms,0,.,.,.,.
+NW26,Three Bedrooms,0,.,.,.,.
+NW26,Four or More Bedrooms,0,.,.,.,.
+NW3,Room,-,..,..,..,..
+NW3,Studio,80,1410,1289,1458,1523
+NW3,One Bedroom,100,1713,1465,1625,1800
+NW3,Two Bedrooms,140,2351,1900,2170,2600
+NW3,Three Bedrooms,50,3488,2713,3171,4213
+NW3,Four or More Bedrooms,10,5452,3800,4762,6717
+NW4,Room,10,601,542,592,657
+NW4,Studio,20,878,800,823,950
+NW4,One Bedroom,30,1163,1050,1100,1230
+NW4,Two Bedrooms,50,1350,1250,1350,1450
+NW4,Three Bedrooms,30,1934,1700,1850,2150
+NW4,Four or More Bedrooms,10,2575,2100,2550,3100
+NW5,Room,-,..,..,..,..
+NW5,Studio,120,962,888,950,1000
+NW5,One Bedroom,150,1302,1200,1275,1350
+NW5,Two Bedrooms,70,1694,1460,1600,1777
+NW5,Three Bedrooms,50,2165,1850,2100,2400
+NW5,Four or More Bedrooms,10,2898,1863,2675,3740
+NW6,Room,-,..,..,..,..
+NW6,Studio,20,1096,932,1070,1264
+NW6,One Bedroom,100,1464,1300,1404,1580
+NW6,Two Bedrooms,150,1875,1595,1700,2075
+NW6,Three Bedrooms,50,2533,2126,2375,2775
+NW6,Four or More Bedrooms,30,3184,2037,2600,3450
+NW7,Room,-,..,..,..,..
+NW7,Studio,10,815,800,800,825
+NW7,One Bedroom,50,1165,1050,1200,1315
+NW7,Two Bedrooms,150,1466,1300,1400,1560
+NW7,Three Bedrooms,60,1777,1650,1800,1900
+NW7,Four or More Bedrooms,30,2599,2150,2400,2800
+NW8,Room,-,..,..,..,..
+NW8,Studio,10,1374,1450,1450,1473
+NW8,One Bedroom,20,1635,1450,1517,1750
+NW8,Two Bedrooms,20,2085,1650,1997,2300
+NW8,Three Bedrooms,10,2918,2800,2800,2817
+NW8,Four or More Bedrooms,-,..,..,..,..
+NW9,Room,-,..,..,..,..
+NW9,Studio,60,946,850,950,1050
+NW9,One Bedroom,180,1213,1100,1200,1300
+NW9,Two Bedrooms,240,1405,1275,1430,1557
+NW9,Three Bedrooms,110,1729,1625,1750,1850
+NW9,Four or More Bedrooms,30,2108,1900,2100,2200
+RM1,Room,0,.,.,.,.
+RM1,Studio,10,746,700,725,775
+RM1,One Bedroom,50,933,843,950,1000
+RM1,Two Bedrooms,80,1164,1100,1150,1250
+RM1,Three Bedrooms,20,1509,1400,1450,1650
+RM1,Four or More Bedrooms,10,1784,1600,1850,1995
+RM10,Room,10,472,367,542,542
+RM10,Studio,0,.,.,.,.
+RM10,One Bedroom,30,947,875,925,1000
+RM10,Two Bedrooms,50,1197,1150,1200,1250
+RM10,Three Bedrooms,60,1423,1400,1400,1450
+RM10,Four or More Bedrooms,10,1770,1600,1650,1900
+RM11,Room,0,.,.,.,.
+RM11,Studio,-,..,..,..,..
+RM11,One Bedroom,10,902,848,900,990
+RM11,Two Bedrooms,40,1152,1050,1100,1250
+RM11,Three Bedrooms,30,1445,1125,1467,1625
+RM11,Four or More Bedrooms,-,..,..,..,..
+RM12,Room,10,628,624,624,624
+RM12,Studio,-,..,..,..,..
+RM12,One Bedroom,40,928,865,900,950
+RM12,Two Bedrooms,40,1162,1050,1150,1200
+RM12,Three Bedrooms,90,1420,1350,1400,1525
+RM12,Four or More Bedrooms,10,1853,1700,1895,2000
+RM13,Room,0,.,.,.,.
+RM13,Studio,-,..,..,..,..
+RM13,One Bedroom,20,916,850,950,950
+RM13,Two Bedrooms,30,1070,950,1100,1200
+RM13,Three Bedrooms,60,1415,1300,1400,1500
+RM13,Four or More Bedrooms,10,1673,1600,1618,1700
+RM14,Room,0,.,.,.,.
+RM14,Studio,0,.,.,.,.
+RM14,One Bedroom,-,..,..,..,..
+RM14,Two Bedrooms,30,1238,1100,1250,1325
+RM14,Three Bedrooms,10,1608,1400,1700,1775
+RM14,Four or More Bedrooms,10,2224,2100,2273,2500
+RM15,Room,0,.,.,.,.
+RM15,Studio,0,.,.,.,.
+RM15,One Bedroom,0,.,.,.,.
+RM15,Two Bedrooms,0,.,.,.,.
+RM15,Three Bedrooms,0,.,.,.,.
+RM15,Four or More Bedrooms,0,.,.,.,.
+RM2,Room,10,529,492,536,542
+RM2,Studio,-,..,..,..,..
+RM2,One Bedroom,20,931,875,900,1000
+RM2,Two Bedrooms,30,1212,1100,1200,1265
+RM2,Three Bedrooms,10,1310,1275,1333,1400
+RM2,Four or More Bedrooms,10,1804,1600,1720,2000
+RM3,Room,0,.,.,.,.
+RM3,Studio,-,..,..,..,..
+RM3,One Bedroom,40,923,825,900,1000
+RM3,Two Bedrooms,40,1195,1050,1200,1300
+RM3,Three Bedrooms,50,1398,1278,1400,1500
+RM3,Four or More Bedrooms,10,1884,1600,1825,2050
+RM4,Room,0,.,.,.,.
+RM4,Studio,0,.,.,.,.
+RM4,One Bedroom,0,.,.,.,.
+RM4,Two Bedrooms,-,..,..,..,..
+RM4,Three Bedrooms,-,..,..,..,..
+RM4,Four or More Bedrooms,-,..,..,..,..
+RM5,Room,0,.,.,.,.
+RM5,Studio,0,.,.,.,.
+RM5,One Bedroom,10,910,900,900,950
+RM5,Two Bedrooms,10,1147,1028,1188,1275
+RM5,Three Bedrooms,20,1402,1350,1350,1500
+RM5,Four or More Bedrooms,-,..,..,..,..
+RM50,Room,0,.,.,.,.
+RM50,Studio,0,.,.,.,.
+RM50,One Bedroom,0,.,.,.,.
+RM50,Two Bedrooms,0,.,.,.,.
+RM50,Three Bedrooms,0,.,.,.,.
+RM50,Four or More Bedrooms,0,.,.,.,.
+RM6,Room,-,..,..,..,..
+RM6,Studio,10,792,750,750,865
+RM6,One Bedroom,30,931,875,900,1000
+RM6,Two Bedrooms,70,1157,1100,1150,1233
+RM6,Three Bedrooms,50,1456,1375,1450,1550
+RM6,Four or More Bedrooms,10,1826,1700,1795,1900
+RM7,Room,-,..,..,..,..
+RM7,Studio,-,..,..,..,..
+RM7,One Bedroom,50,991,950,1000,1050
+RM7,Two Bedrooms,90,1239,1150,1250,1300
+RM7,Three Bedrooms,40,1441,1340,1423,1550
+RM7,Four or More Bedrooms,10,1900,1700,1800,2200
+RM8,Room,0,.,.,.,.
+RM8,Studio,0,.,.,.,.
+RM8,One Bedroom,30,936,863,938,1000
+RM8,Two Bedrooms,60,1217,1150,1250,1300
+RM8,Three Bedrooms,50,1415,1300,1400,1500
+RM8,Four or More Bedrooms,-,..,..,..,..
+RM9,Room,0,.,.,.,.
+RM9,Studio,0,.,.,.,.
+RM9,One Bedroom,10,963,900,938,1025
+RM9,Two Bedrooms,40,1237,1150,1200,1300
+RM9,Three Bedrooms,40,1418,1363,1400,1488
+RM9,Four or More Bedrooms,-,..,..,..,..
+SE1,Room,-,..,..,..,..
+SE1,Studio,20,1364,1140,1275,1410
+SE1,One Bedroom,380,1477,1194,1440,1662
+SE1,Two Bedrooms,410,1928,1495,1863,2275
+SE1,Three Bedrooms,100,2494,1916,2275,2809
+SE1,Four or More Bedrooms,20,3357,3100,3250,3800
+SE10,Room,10,776,742,757,791
+SE10,Studio,10,1037,900,1050,1250
+SE10,One Bedroom,140,1407,1300,1400,1500
+SE10,Two Bedrooms,180,1757,1595,1750,1900
+SE10,Three Bedrooms,60,2180,1850,2200,2400
+SE10,Four or More Bedrooms,20,3175,2650,3100,3600
+SE11,Room,0,.,.,.,.
+SE11,Studio,10,1107,1000,1100,1192
+SE11,One Bedroom,70,1412,1300,1400,1500
+SE11,Two Bedrooms,70,1820,1646,1800,2025
+SE11,Three Bedrooms,30,2205,1842,2150,2600
+SE11,Four or More Bedrooms,10,3146,2720,3200,3500
+SE12,Room,-,..,..,..,..
+SE12,Studio,10,720,650,750,750
+SE12,One Bedroom,50,1088,1000,1050,1200
+SE12,Two Bedrooms,90,1274,1200,1250,1350
+SE12,Three Bedrooms,40,1603,1500,1595,1700
+SE12,Four or More Bedrooms,10,2134,1875,2100,2238
+SE13,Room,20,592,485,585,685
+SE13,Studio,30,981,850,1000,1100
+SE13,One Bedroom,160,1171,1050,1195,1275
+SE13,Two Bedrooms,190,1447,1300,1425,1550
+SE13,Three Bedrooms,50,1688,1500,1675,1800
+SE13,Four or More Bedrooms,10,2388,2000,2239,2400
+SE14,Room,-,..,..,..,..
+SE14,Studio,10,850,800,850,950
+SE14,One Bedroom,50,1102,1000,1088,1200
+SE14,Two Bedrooms,40,1378,1250,1350,1500
+SE14,Three Bedrooms,10,2023,1725,2000,2310
+SE14,Four or More Bedrooms,10,2883,2600,2700,2800
+SE15,Room,0,.,.,.,.
+SE15,Studio,20,991,930,975,1080
+SE15,One Bedroom,130,1256,1150,1250,1350
+SE15,Two Bedrooms,150,1609,1450,1598,1700
+SE15,Three Bedrooms,70,2178,1950,2220,2400
+SE15,Four or More Bedrooms,40,3049,2650,2850,3450
+SE16,Room,10,694,677,692,725
+SE16,Studio,20,1308,1000,1423,1525
+SE16,One Bedroom,250,1453,1250,1400,1700
+SE16,Two Bedrooms,360,1835,1500,1800,2100
+SE16,Three Bedrooms,90,2377,2100,2403,2675
+SE16,Four or More Bedrooms,20,3057,2539,2909,3598
+SE17,Room,0,.,.,.,.
+SE17,Studio,10,893,888,950,1112
+SE17,One Bedroom,30,1327,1200,1325,1450
+SE17,Two Bedrooms,50,1613,1450,1647,1750
+SE17,Three Bedrooms,40,1960,1750,2000,2000
+SE17,Four or More Bedrooms,20,2519,2100,2500,2700
+SE18,Room,10,492,450,502,550
+SE18,Studio,10,1014,975,1062,1100
+SE18,One Bedroom,150,1143,1000,1128,1250
+SE18,Two Bedrooms,260,1365,1250,1350,1450
+SE18,Three Bedrooms,90,1597,1350,1550,1775
+SE18,Four or More Bedrooms,20,1904,1800,1925,2000
+SE19,Room,0,.,.,.,.
+SE19,Studio,10,850,800,800,850
+SE19,One Bedroom,70,1117,1050,1148,1250
+SE19,Two Bedrooms,120,1429,1300,1400,1550
+SE19,Three Bedrooms,30,1685,1400,1600,1950
+SE19,Four or More Bedrooms,10,2132,1800,2100,2400
+SE1P,Room,0,.,.,.,.
+SE1P,Studio,0,.,.,.,.
+SE1P,One Bedroom,0,.,.,.,.
+SE1P,Two Bedrooms,0,.,.,.,.
+SE1P,Three Bedrooms,0,.,.,.,.
+SE1P,Four or More Bedrooms,0,.,.,.,.
+SE2,Room,-,..,..,..,..
+SE2,Studio,-,..,..,..,..
+SE2,One Bedroom,20,912,790,898,950
+SE2,Two Bedrooms,40,1136,1000,1195,1250
+SE2,Three Bedrooms,60,1265,1150,1250,1400
+SE2,Four or More Bedrooms,30,1429,1255,1321,1600
+SE20,Room,-,..,..,..,..
+SE20,Studio,10,867,790,890,900
+SE20,One Bedroom,80,1035,935,1000,1100
+SE20,Two Bedrooms,60,1275,1163,1300,1388
+SE20,Three Bedrooms,20,1761,1500,1637,1825
+SE20,Four or More Bedrooms,-,..,..,..,..
+SE21,Room,0,.,.,.,.
+SE21,Studio,-,..,..,..,..
+SE21,One Bedroom,40,1286,1150,1300,1400
+SE21,Two Bedrooms,150,1431,1150,1400,1700
+SE21,Three Bedrooms,40,2181,1875,2125,2425
+SE21,Four or More Bedrooms,30,4007,2850,3875,4500
+SE22,Room,-,..,..,..,..
+SE22,Studio,20,1090,1058,1100,1165
+SE22,One Bedroom,100,1320,1200,1325,1400
+SE22,Two Bedrooms,140,1702,1550,1690,1850
+SE22,Three Bedrooms,60,2237,1900,2150,2474
+SE22,Four or More Bedrooms,20,3069,2690,2918,3250
+SE23,Room,-,..,..,..,..
+SE23,Studio,20,803,750,800,873
+SE23,One Bedroom,50,1088,1000,1100,1200
+SE23,Two Bedrooms,70,1423,1300,1400,1550
+SE23,Three Bedrooms,30,1905,1625,1800,2000
+SE23,Four or More Bedrooms,20,2425,1700,1925,2650
+SE24,Room,0,.,.,.,.
+SE24,Studio,-,..,..,..,..
+SE24,One Bedroom,50,1339,1200,1350,1450
+SE24,Two Bedrooms,60,1630,1500,1650,1760
+SE24,Three Bedrooms,40,2268,1900,2300,2550
+SE24,Four or More Bedrooms,20,3520,3400,3600,3725
+SE25,Room,-,..,..,..,..
+SE25,Studio,10,784,775,785,800
+SE25,One Bedroom,50,1021,950,975,1100
+SE25,Two Bedrooms,60,1183,1100,1175,1250
+SE25,Three Bedrooms,20,1541,1350,1595,1750
+SE25,Four or More Bedrooms,10,1864,1700,1800,2150
+SE26,Room,0,.,.,.,.
+SE26,Studio,10,851,825,850,890
+SE26,One Bedroom,80,1097,1000,1100,1165
+SE26,Two Bedrooms,110,1303,1163,1300,1420
+SE26,Three Bedrooms,60,1651,1400,1600,1850
+SE26,Four or More Bedrooms,10,2194,2025,2200,2350
+SE27,Room,0,.,.,.,.
+SE27,Studio,10,754,655,800,838
+SE27,One Bedroom,30,1116,1000,1100,1250
+SE27,Two Bedrooms,40,1404,1250,1375,1500
+SE27,Three Bedrooms,20,1996,1650,1850,2125
+SE27,Four or More Bedrooms,10,2288,1850,2200,2769
+SE28,Room,0,.,.,.,.
+SE28,Studio,0,.,.,.,.
+SE28,One Bedroom,30,957,913,988,1013
+SE28,Two Bedrooms,70,1229,1150,1200,1330
+SE28,Three Bedrooms,20,1439,1340,1475,1550
+SE28,Four or More Bedrooms,10,1616,1600,1600,1700
+SE3,Room,-,..,..,..,..
+SE3,Studio,10,1026,950,1000,1075
+SE3,One Bedroom,60,1352,1219,1300,1400
+SE3,Two Bedrooms,100,1671,1500,1695,1800
+SE3,Three Bedrooms,50,2044,1800,2000,2200
+SE3,Four or More Bedrooms,20,3190,2250,2850,4125
+SE4,Room,0,.,.,.,.
+SE4,Studio,-,..,..,..,..
+SE4,One Bedroom,30,1148,1050,1150,1250
+SE4,Two Bedrooms,70,1402,1300,1400,1500
+SE4,Three Bedrooms,20,1786,1550,1735,2000
+SE4,Four or More Bedrooms,10,2715,2400,2500,2675
+SE5,Room,0,.,.,.,.
+SE5,Studio,-,..,..,..,..
+SE5,One Bedroom,60,1324,1200,1300,1450
+SE5,Two Bedrooms,100,1543,1350,1500,1750
+SE5,Three Bedrooms,40,2093,1800,2050,2325
+SE5,Four or More Bedrooms,20,3400,3003,3300,3900
+SE6,Room,10,786,500,818,960
+SE6,Studio,10,817,800,800,850
+SE6,One Bedroom,80,1039,950,1000,1100
+SE6,Two Bedrooms,110,1247,1150,1250,1350
+SE6,Three Bedrooms,60,1565,1450,1600,1675
+SE6,Four or More Bedrooms,20,2040,1733,2100,2200
+SE7,Room,0,.,.,.,.
+SE7,Studio,0,.,.,.,.
+SE7,One Bedroom,10,1117,1000,1100,1175
+SE7,Two Bedrooms,30,1330,1250,1350,1450
+SE7,Three Bedrooms,20,1755,1525,1800,1910
+SE7,Four or More Bedrooms,10,1910,1700,1850,2000
+SE8,Room,20,721,611,742,812
+SE8,Studio,10,882,900,925,1006
+SE8,One Bedroom,80,1171,1050,1150,1300
+SE8,Two Bedrooms,130,1428,1278,1350,1650
+SE8,Three Bedrooms,30,1883,1500,1900,2171
+SE8,Four or More Bedrooms,10,2067,1127,2135,2880
+SE9,Room,10,591,520,625,650
+SE9,Studio,10,815,750,800,825
+SE9,One Bedroom,60,1047,900,1050,1200
+SE9,Two Bedrooms,90,1310,1200,1300,1400
+SE9,Three Bedrooms,90,1563,1400,1600,1700
+SE9,Four or More Bedrooms,30,2304,1800,2000,2400
+SE99,Room,0,.,.,.,.
+SE99,Studio,0,.,.,.,.
+SE99,One Bedroom,0,.,.,.,.
+SE99,Two Bedrooms,0,.,.,.,.
+SE99,Three Bedrooms,0,.,.,.,.
+SE99,Four or More Bedrooms,0,.,.,.,.
+SM1,Room,0,.,.,.,.
+SM1,Studio,10,786,750,775,800
+SM1,One Bedroom,90,999,898,950,1025
+SM1,Two Bedrooms,110,1254,1150,1236,1350
+SM1,Three Bedrooms,40,1579,1390,1598,1750
+SM1,Four or More Bedrooms,10,1894,1600,1895,2300
+SM2,Room,0,.,.,.,.
+SM2,Studio,30,795,743,795,850
+SM2,One Bedroom,110,964,900,950,995
+SM2,Two Bedrooms,150,1230,1150,1225,1300
+SM2,Three Bedrooms,30,1578,1450,1550,1750
+SM2,Four or More Bedrooms,10,2538,2100,2300,2525
+SM3,Room,0,.,.,.,.
+SM3,Studio,10,870,850,900,900
+SM3,One Bedroom,10,1003,963,998,1075
+SM3,Two Bedrooms,20,1261,1150,1300,1400
+SM3,Three Bedrooms,20,1676,1500,1600,1850
+SM3,Four or More Bedrooms,-,..,..,..,..
+SM4,Room,0,.,.,.,.
+SM4,Studio,0,.,.,.,.
+SM4,One Bedroom,20,1058,950,1063,1150
+SM4,Two Bedrooms,30,1357,1250,1325,1425
+SM4,Three Bedrooms,20,1748,1500,1650,1900
+SM4,Four or More Bedrooms,-,..,..,..,..
+SM5,Room,0,.,.,.,.
+SM5,Studio,-,..,..,..,..
+SM5,One Bedroom,20,896,838,873,938
+SM5,Two Bedrooms,30,1176,1050,1188,1285
+SM5,Three Bedrooms,10,1530,1375,1480,1625
+SM5,Four or More Bedrooms,-,..,..,..,..
+SM6,Room,0,.,.,.,.
+SM6,Studio,10,841,800,825,905
+SM6,One Bedroom,40,920,850,900,950
+SM6,Two Bedrooms,60,1165,1100,1150,1250
+SM6,Three Bedrooms,20,1614,1450,1575,1755
+SM6,Four or More Bedrooms,10,2067,1750,2050,2300
+SM7,Room,0,.,.,.,.
+SM7,Studio,0,.,.,.,.
+SM7,One Bedroom,0,.,.,.,.
+SM7,Two Bedrooms,0,.,.,.,.
+SM7,Three Bedrooms,0,.,.,.,.
+SM7,Four or More Bedrooms,0,.,.,.,.
+SW10,Room,-,..,..,..,..
+SW10,Studio,60,1478,1365,1517,1550
+SW10,One Bedroom,120,2010,1647,1870,2123
+SW10,Two Bedrooms,150,2693,1950,2383,3033
+SW10,Three Bedrooms,40,4032,2970,3823,4625
+SW10,Four or More Bedrooms,10,5315,4117,4767,6250
+SW11,Room,0,.,.,.,.
+SW11,Studio,10,1175,1000,1083,1200
+SW11,One Bedroom,250,1558,1350,1560,1731
+SW11,Two Bedrooms,420,2122,1799,2100,2350
+SW11,Three Bedrooms,140,2786,2350,2700,3250
+SW11,Four or More Bedrooms,100,4044,3385,3720,4464
+SW12,Room,0,.,.,.,.
+SW12,Studio,10,1037,1000,1000,1100
+SW12,One Bedroom,50,1557,1350,1598,1725
+SW12,Two Bedrooms,120,1990,1751,1900,2182
+SW12,Three Bedrooms,60,2552,2150,2500,2851
+SW12,Four or More Bedrooms,30,3712,3190,3500,4200
+SW13,Room,0,.,.,.,.
+SW13,Studio,10,1071,945,1068,1100
+SW13,One Bedroom,40,1307,1172,1266,1400
+SW13,Two Bedrooms,90,1851,1500,1785,2050
+SW13,Three Bedrooms,70,2404,1730,2250,2900
+SW13,Four or More Bedrooms,20,4165,2750,3700,4600
+SW14,Room,0,.,.,.,.
+SW14,Studio,-,..,..,..,..
+SW14,One Bedroom,40,1236,1150,1250,1325
+SW14,Two Bedrooms,150,1653,1440,1600,1800
+SW14,Three Bedrooms,60,2355,1763,2300,2738
+SW14,Four or More Bedrooms,70,3855,3000,3500,4400
+SW15,Room,-,..,..,..,..
+SW15,Studio,20,1068,1000,1070,1150
+SW15,One Bedroom,100,1464,1300,1450,1650
+SW15,Two Bedrooms,200,1872,1600,1800,2150
+SW15,Three Bedrooms,60,2250,1700,2200,2600
+SW15,Four or More Bedrooms,30,3287,2225,3236,3650
+SW16,Room,10,692,585,642,700
+SW16,Studio,10,851,800,813,932
+SW16,One Bedroom,100,1166,1050,1200,1295
+SW16,Two Bedrooms,130,1428,1300,1400,1500
+SW16,Three Bedrooms,70,1629,1500,1600,1800
+SW16,Four or More Bedrooms,60,2022,1625,1950,2266
+SW17,Room,-,..,..,..,..
+SW17,Studio,10,997,925,1000,1050
+SW17,One Bedroom,80,1346,1250,1350,1450
+SW17,Two Bedrooms,120,1623,1450,1600,1770
+SW17,Three Bedrooms,40,2171,1750,2200,2500
+SW17,Four or More Bedrooms,40,2948,2400,2900,3250
+SW18,Room,-,..,..,..,..
+SW18,Studio,-,..,..,..,..
+SW18,One Bedroom,150,1461,1275,1475,1575
+SW18,Two Bedrooms,250,1810,1525,1750,2000
+SW18,Three Bedrooms,80,2423,2000,2400,2775
+SW18,Four or More Bedrooms,60,3476,3000,3325,3750
+SW19,Room,-,..,..,..,..
+SW19,Studio,10,982,900,980,1050
+SW19,One Bedroom,240,1311,1200,1300,1400
+SW19,Two Bedrooms,420,1673,1450,1550,1800
+SW19,Three Bedrooms,130,2264,1850,2200,2550
+SW19,Four or More Bedrooms,90,3568,2650,3125,4300
+SW1A,Room,0,.,.,.,.
+SW1A,Studio,0,.,.,.,.
+SW1A,One Bedroom,0,.,.,.,.
+SW1A,Two Bedrooms,-,..,..,..,..
+SW1A,Three Bedrooms,0,.,.,.,.
+SW1A,Four or More Bedrooms,0,.,.,.,.
+SW1E,Room,0,.,.,.,.
+SW1E,Studio,0,.,.,.,.
+SW1E,One Bedroom,-,..,..,..,..
+SW1E,Two Bedrooms,-,..,..,..,..
+SW1E,Three Bedrooms,-,..,..,..,..
+SW1E,Four or More Bedrooms,0,.,.,.,.
+SW1H,Room,0,.,.,.,.
+SW1H,Studio,-,..,..,..,..
+SW1H,One Bedroom,10,1939,1750,2000,2106
+SW1H,Two Bedrooms,-,..,..,..,..
+SW1H,Three Bedrooms,0,.,.,.,.
+SW1H,Four or More Bedrooms,0,.,.,.,.
+SW1P,Room,0,.,.,.,.
+SW1P,Studio,-,..,..,..,..
+SW1P,One Bedroom,20,1896,1500,1650,2492
+SW1P,Two Bedrooms,30,2290,1908,2048,2763
+SW1P,Three Bedrooms,20,3869,3142,3600,3825
+SW1P,Four or More Bedrooms,-,..,..,..,..
+SW1V,Room,0,.,.,.,.
+SW1V,Studio,-,..,..,..,..
+SW1V,One Bedroom,50,2021,1647,1842,2123
+SW1V,Two Bedrooms,80,2364,2000,2275,2600
+SW1V,Three Bedrooms,20,3943,2908,3850,4442
+SW1V,Four or More Bedrooms,10,6721,4700,5900,7000
+SW1W,Room,0,.,.,.,.
+SW1W,Studio,10,1352,1208,1300,1495
+SW1W,One Bedroom,30,2048,1440,2123,2644
+SW1W,Two Bedrooms,40,3501,2535,3050,3943
+SW1W,Three Bedrooms,20,5280,3792,4117,6392
+SW1W,Four or More Bedrooms,10,6506,5200,6825,8017
+SW1X,Room,0,.,.,.,.
+SW1X,Studio,-,..,..,..,..
+SW1X,One Bedroom,20,2664,2058,2708,3250
+SW1X,Two Bedrooms,30,4012,3033,3400,4983
+SW1X,Three Bedrooms,10,6392,4832,6717,7367
+SW1X,Four or More Bedrooms,10,7172,6933,7583,8125
+SW1Y,Room,0,.,.,.,.
+SW1Y,Studio,0,.,.,.,.
+SW1Y,One Bedroom,-,..,..,..,..
+SW1Y,Two Bedrooms,0,.,.,.,.
+SW1Y,Three Bedrooms,-,..,..,..,..
+SW1Y,Four or More Bedrooms,0,.,.,.,.
+SW2,Room,10,686,678,707,707
+SW2,Studio,10,967,900,955,1000
+SW2,One Bedroom,90,1303,1200,1300,1400
+SW2,Two Bedrooms,120,1671,1500,1600,1850
+SW2,Three Bedrooms,50,2200,1850,2205,2500
+SW2,Four or More Bedrooms,30,3021,2600,3053,3450
+SW20,Room,0,.,.,.,.
+SW20,Studio,10,994,900,1000,1050
+SW20,One Bedroom,40,1216,1052,1200,1327
+SW20,Two Bedrooms,60,1517,1300,1475,1700
+SW20,Three Bedrooms,40,2320,1850,2050,2550
+SW20,Four or More Bedrooms,30,2941,2625,2800,3200
+SW3,Room,0,.,.,.,.
+SW3,Studio,110,1347,1083,1300,1560
+SW3,One Bedroom,300,2019,1603,1893,2269
+SW3,Two Bedrooms,240,2948,2318,2795,3358
+SW3,Three Bedrooms,80,4991,3792,4767,5958
+SW3,Four or More Bedrooms,40,8967,6000,8233,12133
+SW4,Room,0,.,.,.,.
+SW4,Studio,10,1090,975,1150,1200
+SW4,One Bedroom,110,1519,1322,1550,1700
+SW4,Two Bedrooms,190,1945,1700,1950,2186
+SW4,Three Bedrooms,70,2555,2200,2647,2825
+SW4,Four or More Bedrooms,40,4042,3120,3700,4875
+SW5,Room,0,.,.,.,.
+SW5,Studio,30,1316,1150,1279,1500
+SW5,One Bedroom,120,1808,1495,1690,1950
+SW5,Two Bedrooms,190,2561,2000,2345,2925
+SW5,Three Bedrooms,30,3609,2597,3163,4279
+SW5,Four or More Bedrooms,10,5468,3841,5525,6717
+SW6,Room,0,.,.,.,.
+SW6,Studio,40,1144,950,1127,1278
+SW6,One Bedroom,230,1559,1400,1550,1712
+SW6,Two Bedrooms,340,2013,1668,1925,2275
+SW6,Three Bedrooms,130,2826,2250,2800,3250
+SW6,Four or More Bedrooms,110,5093,4000,4500,5850
+SW7,Room,0,.,.,.,.
+SW7,Studio,40,1261,1083,1300,1408
+SW7,One Bedroom,110,2308,1777,2123,2492
+SW7,Two Bedrooms,170,3140,2383,2881,3575
+SW7,Three Bedrooms,40,4189,3033,3850,4658
+SW7,Four or More Bedrooms,20,5470,4082,5200,6609
+SW8,Room,10,573,520,555,630
+SW8,Studio,20,1189,950,1275,1350
+SW8,One Bedroom,130,1687,1500,1712,1924
+SW8,Two Bedrooms,180,2051,1700,2010,2350
+SW8,Three Bedrooms,60,2387,1810,2265,2828
+SW8,Four or More Bedrooms,10,2982,2440,2725,3200
+SW9,Room,0,.,.,.,.
+SW9,Studio,-,..,..,..,..
+SW9,One Bedroom,60,1407,1288,1400,1550
+SW9,Two Bedrooms,100,1715,1500,1700,1850
+SW9,Three Bedrooms,20,2414,2000,2383,2800
+SW9,Four or More Bedrooms,10,3456,3200,3500,3600
+SW95,Room,0,.,.,.,.
+SW95,Studio,0,.,.,.,.
+SW95,One Bedroom,0,.,.,.,.
+SW95,Two Bedrooms,0,.,.,.,.
+SW95,Three Bedrooms,0,.,.,.,.
+SW95,Four or More Bedrooms,0,.,.,.,.
+SW99,Room,0,.,.,.,.
+SW99,Studio,0,.,.,.,.
+SW99,One Bedroom,0,.,.,.,.
+SW99,Two Bedrooms,0,.,.,.,.
+SW99,Three Bedrooms,0,.,.,.,.
+SW99,Four or More Bedrooms,0,.,.,.,.
+TN14,Room,0,.,.,.,.
+TN14,Studio,0,.,.,.,.
+TN14,One Bedroom,0,.,.,.,.
+TN14,Two Bedrooms,0,.,.,.,.
+TN14,Three Bedrooms,0,.,.,.,.
+TN14,Four or More Bedrooms,0,.,.,.,.
+TN16,Room,0,.,.,.,.
+TN16,Studio,0,.,.,.,.
+TN16,One Bedroom,-,..,..,..,..
+TN16,Two Bedrooms,10,1240,1200,1250,1300
+TN16,Three Bedrooms,-,..,..,..,..
+TN16,Four or More Bedrooms,10,1785,1600,1700,1800
+TW1,Room,0,.,.,.,.
+TW1,Studio,40,926,849,905,1000
+TW1,One Bedroom,220,1261,1110,1225,1350
+TW1,Two Bedrooms,290,1659,1400,1600,1800
+TW1,Three Bedrooms,70,2296,1725,2150,2950
+TW1,Four or More Bedrooms,60,3740,3050,3670,4475
+TW10,Room,0,.,.,.,.
+TW10,Studio,10,1053,975,1050,1075
+TW10,One Bedroom,70,1389,1200,1365,1500
+TW10,Two Bedrooms,140,1885,1595,1850,2083
+TW10,Three Bedrooms,60,2758,1995,2550,3100
+TW10,Four or More Bedrooms,20,4879,3075,4250,6000
+TW11,Room,-,..,..,..,..
+TW11,Studio,10,889,835,873,950
+TW11,One Bedroom,90,1182,1050,1113,1275
+TW11,Two Bedrooms,80,1638,1350,1550,1795
+TW11,Three Bedrooms,40,2133,1625,1998,2325
+TW11,Four or More Bedrooms,20,3452,2602,3200,3850
+TW12,Room,10,637,632,632,662
+TW12,Studio,-,..,..,..,..
+TW12,One Bedroom,80,1051,950,1050,1138
+TW12,Two Bedrooms,70,1439,1275,1400,1500
+TW12,Three Bedrooms,50,1858,1483,1795,2150
+TW12,Four or More Bedrooms,20,2597,2250,2623,2775
+TW13,Room,-,..,..,..,..
+TW13,Studio,-,..,..,..,..
+TW13,One Bedroom,40,960,910,952,1000
+TW13,Two Bedrooms,80,1213,1150,1234,1325
+TW13,Three Bedrooms,40,1460,1300,1500,1575
+TW13,Four or More Bedrooms,10,1611,1550,1550,1700
+TW14,Room,10,619,592,592,619
+TW14,Studio,10,791,725,775,850
+TW14,One Bedroom,40,973,935,974,1050
+TW14,Two Bedrooms,60,1306,1168,1250,1350
+TW14,Three Bedrooms,50,1510,1398,1500,1600
+TW14,Four or More Bedrooms,10,1751,1650,1700,1904
+TW15,Room,0,.,.,.,.
+TW15,Studio,0,.,.,.,.
+TW15,One Bedroom,0,.,.,.,.
+TW15,Two Bedrooms,0,.,.,.,.
+TW15,Three Bedrooms,0,.,.,.,.
+TW15,Four or More Bedrooms,0,.,.,.,.
+TW19,Room,0,.,.,.,.
+TW19,Studio,0,.,.,.,.
+TW19,One Bedroom,0,.,.,.,.
+TW19,Two Bedrooms,-,..,..,..,..
+TW19,Three Bedrooms,-,..,..,..,..
+TW19,Four or More Bedrooms,0,.,.,.,.
+TW2,Room,-,..,..,..,..
+TW2,Studio,-,..,..,..,..
+TW2,One Bedroom,30,1170,1100,1200,1265
+TW2,Two Bedrooms,80,1571,1350,1498,1700
+TW2,Three Bedrooms,50,2028,1650,1948,2250
+TW2,Four or More Bedrooms,20,2577,2100,2625,2995
+TW3,Room,40,546,475,550,600
+TW3,Studio,50,842,725,813,990
+TW3,One Bedroom,130,1116,975,1050,1225
+TW3,Two Bedrooms,170,1315,1200,1300,1400
+TW3,Three Bedrooms,80,1596,1475,1600,1700
+TW3,Four or More Bedrooms,20,1783,1700,1800,1900
+TW4,Room,10,482,417,463,592
+TW4,Studio,10,828,763,863,888
+TW4,One Bedroom,30,993,960,1000,1025
+TW4,Two Bedrooms,40,1225,1150,1250,1325
+TW4,Three Bedrooms,50,1535,1400,1525,1695
+TW4,Four or More Bedrooms,20,1891,1650,1800,1975
+TW5,Room,-,..,..,..,..
+TW5,Studio,10,733,675,700,750
+TW5,One Bedroom,10,898,850,925,950
+TW5,Two Bedrooms,50,1240,1200,1225,1300
+TW5,Three Bedrooms,30,1553,1400,1550,1688
+TW5,Four or More Bedrooms,20,1813,1650,1750,1850
+TW6,Room,0,.,.,.,.
+TW6,Studio,0,.,.,.,.
+TW6,One Bedroom,0,.,.,.,.
+TW6,Two Bedrooms,0,.,.,.,.
+TW6,Three Bedrooms,0,.,.,.,.
+TW6,Four or More Bedrooms,0,.,.,.,.
+TW7,Room,-,..,..,..,..
+TW7,Studio,20,844,775,850,927
+TW7,One Bedroom,100,1133,1050,1125,1200
+TW7,Two Bedrooms,170,1372,1250,1350,1407
+TW7,Three Bedrooms,50,1700,1495,1660,1825
+TW7,Four or More Bedrooms,20,2282,2000,2195,2500
+TW8,Room,-,..,..,..,..
+TW8,Studio,10,835,750,800,900
+TW8,One Bedroom,80,1272,1200,1280,1390
+TW8,Two Bedrooms,100,1690,1532,1650,1778
+TW8,Three Bedrooms,30,1805,1430,1750,2000
+TW8,Four or More Bedrooms,10,2577,2200,2700,2990
+TW9,Room,10,625,610,650,650
+TW9,Studio,20,1087,830,1025,1225
+TW9,One Bedroom,120,1339,1200,1300,1450
+TW9,Two Bedrooms,200,1768,1550,1700,1900
+TW9,Three Bedrooms,80,2688,2116,2651,3185
+TW9,Four or More Bedrooms,40,4594,3800,4250,5500
+UB1,Room,10,614,596,646,721
+UB1,Studio,10,1180,1200,1200,1200
+UB1,One Bedroom,10,1004,1000,1000,1000
+UB1,Two Bedrooms,10,1235,1250,1288,1300
+UB1,Three Bedrooms,20,1592,1525,1600,1650
+UB1,Four or More Bedrooms,-,..,..,..,..
+UB10,Room,20,574,492,617,642
+UB10,Studio,-,..,..,..,..
+UB10,One Bedroom,10,944,850,975,1025
+UB10,Two Bedrooms,30,1220,1083,1225,1350
+UB10,Three Bedrooms,100,1257,1138,1225,1350
+UB10,Four or More Bedrooms,10,2096,1825,2175,2200
+UB11,Room,0,.,.,.,.
+UB11,Studio,0,.,.,.,.
+UB11,One Bedroom,0,.,.,.,.
+UB11,Two Bedrooms,0,.,.,.,.
+UB11,Three Bedrooms,0,.,.,.,.
+UB11,Four or More Bedrooms,0,.,.,.,.
+UB18,Room,0,.,.,.,.
+UB18,Studio,0,.,.,.,.
+UB18,One Bedroom,0,.,.,.,.
+UB18,Two Bedrooms,0,.,.,.,.
+UB18,Three Bedrooms,0,.,.,.,.
+UB18,Four or More Bedrooms,0,.,.,.,.
+UB2,Room,10,692,692,692,692
+UB2,Studio,-,..,..,..,..
+UB2,One Bedroom,10,1013,950,1000,1000
+UB2,Two Bedrooms,30,1288,1250,1300,1350
+UB2,Three Bedrooms,30,1630,1500,1600,1700
+UB2,Four or More Bedrooms,10,1815,1575,1875,1995
+UB3,Room,10,651,542,542,800
+UB3,Studio,30,787,700,780,850
+UB3,One Bedroom,70,981,900,975,1100
+UB3,Two Bedrooms,70,1229,1175,1240,1300
+UB3,Three Bedrooms,60,1505,1450,1525,1600
+UB3,Four or More Bedrooms,20,1815,1700,1800,1900
+UB4,Room,0,.,.,.,.
+UB4,Studio,10,685,700,700,700
+UB4,One Bedroom,10,1025,950,975,1050
+UB4,Two Bedrooms,30,1217,1163,1238,1300
+UB4,Three Bedrooms,30,1465,1400,1500,1600
+UB4,Four or More Bedrooms,-,..,..,..,..
+UB5,Room,0,.,.,.,.
+UB5,Studio,-,..,..,..,..
+UB5,One Bedroom,30,1007,945,975,1100
+UB5,Two Bedrooms,40,1341,1200,1300,1388
+UB5,Three Bedrooms,30,1563,1500,1600,1650
+UB5,Four or More Bedrooms,-,..,..,..,..
+UB6,Room,-,..,..,..,..
+UB6,Studio,10,891,850,912,925
+UB6,One Bedroom,20,1065,1000,1050,1100
+UB6,Two Bedrooms,40,1310,1213,1250,1350
+UB6,Three Bedrooms,30,1625,1450,1598,1700
+UB6,Four or More Bedrooms,10,1767,1695,1700,1900
+UB7,Room,80,534,467,537,592
+UB7,Studio,30,712,661,700,725
+UB7,One Bedroom,150,953,850,931,1050
+UB7,Two Bedrooms,170,1186,1100,1200,1300
+UB7,Three Bedrooms,180,1333,1202,1350,1450
+UB7,Four or More Bedrooms,30,1581,1450,1500,1750
+UB8,Room,40,572,492,592,667
+UB8,Studio,50,899,750,929,1020
+UB8,One Bedroom,70,1010,950,1000,1100
+UB8,Two Bedrooms,60,1273,1175,1207,1325
+UB8,Three Bedrooms,60,1658,1400,1525,1750
+UB8,Four or More Bedrooms,50,1926,1545,1750,2400
+UB9,Room,-,..,..,..,..
+UB9,Studio,-,..,..,..,..
+UB9,One Bedroom,0,.,.,.,.
+UB9,Two Bedrooms,-,..,..,..,..
+UB9,Three Bedrooms,-,..,..,..,..
+UB9,Four or More Bedrooms,0,.,.,.,.
+W1,Room,0,.,.,.,.
+W1,Studio,0,.,.,.,.
+W1,One Bedroom,0,.,.,.,.
+W1,Two Bedrooms,0,.,.,.,.
+W1,Three Bedrooms,0,.,.,.,.
+W1,Four or More Bedrooms,0,.,.,.,.
+W10,Room,0,.,.,.,.
+W10,Studio,10,1240,900,900,1235
+W10,One Bedroom,40,1570,1340,1517,1668
+W10,Two Bedrooms,50,2120,1712,1900,2200
+W10,Three Bedrooms,10,3306,2275,2858,3748
+W10,Four or More Bedrooms,0,.,.,.,.
+W11,Room,0,.,.,.,.
+W11,Studio,10,1683,1278,1430,1517
+W11,One Bedroom,90,1893,1500,1750,2167
+W11,Two Bedrooms,100,2678,2058,2383,3142
+W11,Three Bedrooms,30,4035,2756,3575,4767
+W11,Four or More Bedrooms,-,..,..,..,..
+W12,Room,0,.,.,.,.
+W12,Studio,20,1043,867,1050,1127
+W12,One Bedroom,180,1409,1250,1323,1430
+W12,Two Bedrooms,140,1802,1430,1637,2000
+W12,Three Bedrooms,40,2178,1774,2100,2424
+W12,Four or More Bedrooms,20,3111,2500,2946,3550
+W13,Room,0,.,.,.,.
+W13,Studio,30,959,900,940,1000
+W13,One Bedroom,170,1267,1175,1273,1335
+W13,Two Bedrooms,200,1403,1300,1402,1513
+W13,Three Bedrooms,40,1898,1750,1950,2000
+W13,Four or More Bedrooms,20,2756,2250,2500,3000
+W14,Room,0,.,.,.,.
+W14,Studio,40,968,801,845,1092
+W14,One Bedroom,160,1458,1300,1400,1600
+W14,Two Bedrooms,150,2063,1695,1900,2275
+W14,Three Bedrooms,50,3040,2350,2800,3225
+W14,Four or More Bedrooms,30,5146,2850,3770,6933
+W1A,Room,0,.,.,.,.
+W1A,Studio,0,.,.,.,.
+W1A,One Bedroom,0,.,.,.,.
+W1A,Two Bedrooms,0,.,.,.,.
+W1A,Three Bedrooms,0,.,.,.,.
+W1A,Four or More Bedrooms,0,.,.,.,.
+W1B,Room,0,.,.,.,.
+W1B,Studio,0,.,.,.,.
+W1B,One Bedroom,0,.,.,.,.
+W1B,Two Bedrooms,0,.,.,.,.
+W1B,Three Bedrooms,0,.,.,.,.
+W1B,Four or More Bedrooms,0,.,.,.,.
+W1C,Room,0,.,.,.,.
+W1C,Studio,0,.,.,.,.
+W1C,One Bedroom,0,.,.,.,.
+W1C,Two Bedrooms,0,.,.,.,.
+W1C,Three Bedrooms,0,.,.,.,.
+W1C,Four or More Bedrooms,0,.,.,.,.
+W1D,Room,0,.,.,.,.
+W1D,Studio,0,.,.,.,.
+W1D,One Bedroom,0,.,.,.,.
+W1D,Two Bedrooms,0,.,.,.,.
+W1D,Three Bedrooms,0,.,.,.,.
+W1D,Four or More Bedrooms,0,.,.,.,.
+W1F,Room,0,.,.,.,.
+W1F,Studio,0,.,.,.,.
+W1F,One Bedroom,-,..,..,..,..
+W1F,Two Bedrooms,0,.,.,.,.
+W1F,Three Bedrooms,0,.,.,.,.
+W1F,Four or More Bedrooms,0,.,.,.,.
+W1G,Room,0,.,.,.,.
+W1G,Studio,0,.,.,.,.
+W1G,One Bedroom,-,..,..,..,..
+W1G,Two Bedrooms,-,..,..,..,..
+W1G,Three Bedrooms,0,.,.,.,.
+W1G,Four or More Bedrooms,0,.,.,.,.
+W1H,Room,10,672,620,671,722
+W1H,Studio,30,1420,1219,1373,1614
+W1H,One Bedroom,110,2225,1842,2150,2575
+W1H,Two Bedrooms,110,3083,2557,2925,3445
+W1H,Three Bedrooms,30,3836,2275,3575,4463
+W1H,Four or More Bedrooms,10,8567,3900,6782,7800
+W1J,Room,0,.,.,.,.
+W1J,Studio,0,.,.,.,.
+W1J,One Bedroom,-,..,..,..,..
+W1J,Two Bedrooms,-,..,..,..,..
+W1J,Three Bedrooms,0,.,.,.,.
+W1J,Four or More Bedrooms,0,.,.,.,.
+W1K,Room,0,.,.,.,.
+W1K,Studio,0,.,.,.,.
+W1K,One Bedroom,-,..,..,..,..
+W1K,Two Bedrooms,-,..,..,..,..
+W1K,Three Bedrooms,0,.,.,.,.
+W1K,Four or More Bedrooms,0,.,.,.,.
+W1M,Room,0,.,.,.,.
+W1M,Studio,0,.,.,.,.
+W1M,One Bedroom,0,.,.,.,.
+W1M,Two Bedrooms,0,.,.,.,.
+W1M,Three Bedrooms,0,.,.,.,.
+W1M,Four or More Bedrooms,0,.,.,.,.
+W1N,Room,0,.,.,.,.
+W1N,Studio,0,.,.,.,.
+W1N,One Bedroom,0,.,.,.,.
+W1N,Two Bedrooms,0,.,.,.,.
+W1N,Three Bedrooms,0,.,.,.,.
+W1N,Four or More Bedrooms,0,.,.,.,.
+W1P,Room,0,.,.,.,.
+W1P,Studio,0,.,.,.,.
+W1P,One Bedroom,0,.,.,.,.
+W1P,Two Bedrooms,0,.,.,.,.
+W1P,Three Bedrooms,0,.,.,.,.
+W1P,Four or More Bedrooms,0,.,.,.,.
+W1R,Room,0,.,.,.,.
+W1R,Studio,0,.,.,.,.
+W1R,One Bedroom,0,.,.,.,.
+W1R,Two Bedrooms,0,.,.,.,.
+W1R,Three Bedrooms,0,.,.,.,.
+W1R,Four or More Bedrooms,0,.,.,.,.
+W1S,Room,0,.,.,.,.
+W1S,Studio,0,.,.,.,.
+W1S,One Bedroom,0,.,.,.,.
+W1S,Two Bedrooms,0,.,.,.,.
+W1S,Three Bedrooms,0,.,.,.,.
+W1S,Four or More Bedrooms,0,.,.,.,.
+W1T,Room,0,.,.,.,.
+W1T,Studio,-,..,..,..,..
+W1T,One Bedroom,20,2189,1558,1881,2792
+W1T,Two Bedrooms,10,2944,1950,2405,3250
+W1T,Three Bedrooms,0,.,.,.,.
+W1T,Four or More Bedrooms,0,.,.,.,.
+W1U,Room,-,..,..,..,..
+W1U,Studio,10,1457,1300,1408,1625
+W1U,One Bedroom,80,2406,2123,2383,2700
+W1U,Two Bedrooms,60,3310,2700,3120,3683
+W1U,Three Bedrooms,30,4980,3397,4030,5612
+W1U,Four or More Bedrooms,10,7819,4767,4767,12500
+W1V,Room,0,.,.,.,.
+W1V,Studio,0,.,.,.,.
+W1V,One Bedroom,0,.,.,.,.
+W1V,Two Bedrooms,0,.,.,.,.
+W1V,Three Bedrooms,0,.,.,.,.
+W1V,Four or More Bedrooms,0,.,.,.,.
+W1W,Room,0,.,.,.,.
+W1W,Studio,0,.,.,.,.
+W1W,One Bedroom,-,..,..,..,..
+W1W,Two Bedrooms,10,2144,1650,2037,2300
+W1W,Three Bedrooms,-,..,..,..,..
+W1W,Four or More Bedrooms,0,.,.,.,.
+W1X,Room,0,.,.,.,.
+W1X,Studio,0,.,.,.,.
+W1X,One Bedroom,0,.,.,.,.
+W1X,Two Bedrooms,0,.,.,.,.
+W1X,Three Bedrooms,0,.,.,.,.
+W1X,Four or More Bedrooms,0,.,.,.,.
+W1Y,Room,0,.,.,.,.
+W1Y,Studio,0,.,.,.,.
+W1Y,One Bedroom,0,.,.,.,.
+W1Y,Two Bedrooms,0,.,.,.,.
+W1Y,Three Bedrooms,0,.,.,.,.
+W1Y,Four or More Bedrooms,0,.,.,.,.
+W2,Room,10,724,693,721,750
+W2,Studio,90,1259,1213,1213,1322
+W2,One Bedroom,110,1961,1500,1712,1993
+W2,Two Bedrooms,130,2521,1950,2275,3000
+W2,Three Bedrooms,30,3532,2679,3197,3944
+W2,Four or More Bedrooms,-,..,..,..,..
+W3,Room,10,798,750,855,880
+W3,Studio,20,885,800,875,950
+W3,One Bedroom,100,1258,1174,1300,1400
+W3,Two Bedrooms,130,1664,1498,1650,1750
+W3,Three Bedrooms,50,2185,2000,2100,2400
+W3,Four or More Bedrooms,30,3113,2408,2830,3600
+W4,Room,-,..,..,..,..
+W4,Studio,10,983,925,1000,1092
+W4,One Bedroom,100,1354,1220,1361,1500
+W4,Two Bedrooms,170,1767,1550,1687,1850
+W4,Three Bedrooms,80,2191,1800,2000,2475
+W4,Four or More Bedrooms,50,3865,2950,3650,4550
+W5,Room,20,551,450,575,650
+W5,Studio,80,975,850,950,1013
+W5,One Bedroom,310,1270,1150,1250,1400
+W5,Two Bedrooms,430,1601,1400,1500,1700
+W5,Three Bedrooms,150,1938,1650,1900,2100
+W5,Four or More Bedrooms,100,2700,2240,2479,3000
+W6,Room,0,.,.,.,.
+W6,Studio,60,994,932,997,1050
+W6,One Bedroom,130,1377,1127,1310,1560
+W6,Two Bedrooms,130,2288,1750,2200,2700
+W6,Three Bedrooms,40,2890,2229,2405,3500
+W6,Four or More Bedrooms,30,3878,3250,3792,4500
+W7,Room,10,642,592,642,692
+W7,Studio,-,..,..,..,..
+W7,One Bedroom,30,1116,1050,1150,1250
+W7,Two Bedrooms,40,1411,1300,1400,1500
+W7,Three Bedrooms,20,1757,1598,1750,1850
+W7,Four or More Bedrooms,10,2414,1900,2238,2875
+W8,Room,0,.,.,.,.
+W8,Studio,40,1186,1050,1209,1394
+W8,One Bedroom,90,1972,1517,1863,2275
+W8,Two Bedrooms,120,2994,2383,2817,3358
+W8,Three Bedrooms,50,4860,3792,4550,5850
+W8,Four or More Bedrooms,20,6320,5000,6121,8000
+W9,Room,0,.,.,.,.
+W9,Studio,20,852,715,780,925
+W9,One Bedroom,30,1452,1280,1423,1591
+W9,Two Bedrooms,40,1884,1650,1800,2025
+W9,Three Bedrooms,10,2988,2494,2650,3250
+W9,Four or More Bedrooms,0,.,.,.,.
+WC1A,Room,0,.,.,.,.
+WC1A,Studio,0,.,.,.,.
+WC1A,One Bedroom,-,..,..,..,..
+WC1A,Two Bedrooms,10,2523,2492,2500,2607
+WC1A,Three Bedrooms,0,.,.,.,.
+WC1A,Four or More Bedrooms,0,.,.,.,.
+WC1B,Room,0,.,.,.,.
+WC1B,Studio,-,..,..,..,..
+WC1B,One Bedroom,-,..,..,..,..
+WC1B,Two Bedrooms,-,..,..,..,..
+WC1B,Three Bedrooms,-,..,..,..,..
+WC1B,Four or More Bedrooms,-,..,..,..,..
+WC1E,Room,0,.,.,.,.
+WC1E,Studio,0,.,.,.,.
+WC1E,One Bedroom,10,1972,1842,2080,2102
+WC1E,Two Bedrooms,-,..,..,..,..
+WC1E,Three Bedrooms,0,.,.,.,.
+WC1E,Four or More Bedrooms,0,.,.,.,.
+WC1H,Room,0,.,.,.,.
+WC1H,Studio,10,1326,1155,1376,1484
+WC1H,One Bedroom,10,1788,1651,1885,1925
+WC1H,Two Bedrooms,-,..,..,..,..
+WC1H,Three Bedrooms,10,2642,2383,2546,2825
+WC1H,Four or More Bedrooms,0,.,.,.,.
+WC1N,Room,0,.,.,.,.
+WC1N,Studio,0,.,.,.,.
+WC1N,One Bedroom,0,.,.,.,.
+WC1N,Two Bedrooms,10,2248,2216,2425,2665
+WC1N,Three Bedrooms,-,..,..,..,..
+WC1N,Four or More Bedrooms,0,.,.,.,.
+WC1R,Room,0,.,.,.,.
+WC1R,Studio,0,.,.,.,.
+WC1R,One Bedroom,-,..,..,..,..
+WC1R,Two Bedrooms,10,1991,1800,1925,2070
+WC1R,Three Bedrooms,-,..,..,..,..
+WC1R,Four or More Bedrooms,0,.,.,.,.
+WC1V,Room,0,.,.,.,.
+WC1V,Studio,0,.,.,.,.
+WC1V,One Bedroom,-,..,..,..,..
+WC1V,Two Bedrooms,-,..,..,..,..
+WC1V,Three Bedrooms,-,..,..,..,..
+WC1V,Four or More Bedrooms,0,.,.,.,.
+WC1X,Room,0,.,.,.,.
+WC1X,Studio,10,1281,1083,1100,1387
+WC1X,One Bedroom,20,1622,1376,1559,1700
+WC1X,Two Bedrooms,20,2467,2058,2300,2900
+WC1X,Three Bedrooms,10,2931,2750,2947,3012
+WC1X,Four or More Bedrooms,10,3353,2925,3635,3683
+WC2A,Room,0,.,.,.,.
+WC2A,Studio,-,..,..,..,..
+WC2A,One Bedroom,10,3614,2414,4177,4559
+WC2A,Two Bedrooms,10,4559,4559,4559,4559
+WC2A,Three Bedrooms,-,..,..,..,..
+WC2A,Four or More Bedrooms,0,.,.,.,.
+WC2B,Room,0,.,.,.,.
+WC2B,Studio,0,.,.,.,.
+WC2B,One Bedroom,10,1905,1650,1925,2275
+WC2B,Two Bedrooms,-,..,..,..,..
+WC2B,Three Bedrooms,-,..,..,..,..
+WC2B,Four or More Bedrooms,0,.,.,.,.
+WC2E,Room,0,.,.,.,.
+WC2E,Studio,-,..,..,..,..
+WC2E,One Bedroom,10,2097,1733,2058,2492
+WC2E,Two Bedrooms,-,..,..,..,..
+WC2E,Three Bedrooms,0,.,.,.,.
+WC2E,Four or More Bedrooms,0,.,.,.,.
+WC2H,Room,0,.,.,.,.
+WC2H,Studio,0,.,.,.,.
+WC2H,One Bedroom,10,1832,1430,1842,2123
+WC2H,Two Bedrooms,10,2753,2383,2600,2817
+WC2H,Three Bedrooms,-,..,..,..,..
+WC2H,Four or More Bedrooms,0,.,.,.,.
+WC2N,Room,0,.,.,.,.
+WC2N,Studio,0,.,.,.,.
+WC2N,One Bedroom,-,..,..,..,..
+WC2N,Two Bedrooms,-,..,..,..,..
+WC2N,Three Bedrooms,0,.,.,.,.
+WC2N,Four or More Bedrooms,0,.,.,.,.
+WC2R,Room,0,.,.,.,.
+WC2R,Studio,0,.,.,.,.
+WC2R,One Bedroom,-,..,..,..,..
+WC2R,Two Bedrooms,-,..,..,..,..
+WC2R,Three Bedrooms,-,..,..,..,..
+WC2R,Four or More Bedrooms,0,.,.,.,.
+WC99,Room,0,.,.,.,.
+WC99,Studio,0,.,.,.,.
+WC99,One Bedroom,0,.,.,.,.
+WC99,Two Bedrooms,0,.,.,.,.
+WC99,Three Bedrooms,0,.,.,.,.
+WC99,Four or More Bedrooms,0,.,.,.,.
+WD2,Room,0,.,.,.,.
+WD2,Studio,0,.,.,.,.
+WD2,One Bedroom,0,.,.,.,.
+WD2,Two Bedrooms,0,.,.,.,.
+WD2,Three Bedrooms,0,.,.,.,.
+WD2,Four or More Bedrooms,0,.,.,.,.
+WD23,Room,0,.,.,.,.
+WD23,Studio,0,.,.,.,.
+WD23,One Bedroom,0,.,.,.,.
+WD23,Two Bedrooms,0,.,.,.,.
+WD23,Three Bedrooms,0,.,.,.,.
+WD23,Four or More Bedrooms,0,.,.,.,.
+WD3,Room,0,.,.,.,.
+WD3,Studio,0,.,.,.,.
+WD3,One Bedroom,0,.,.,.,.
+WD3,Two Bedrooms,0,.,.,.,.
+WD3,Three Bedrooms,0,.,.,.,.
+WD3,Four or More Bedrooms,0,.,.,.,.
+WD6,Room,0,.,.,.,.
+WD6,Studio,0,.,.,.,.
+WD6,One Bedroom,0,.,.,.,.
+WD6,Two Bedrooms,0,.,.,.,.
+WD6,Three Bedrooms,0,.,.,.,.
+WD6,Four or More Bedrooms,0,.,.,.,.
