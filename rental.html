@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>London rental market</title>
+
+<!--UIkit-->
+  <link type="text/css" rel="stylesheet" href="js/uikit-3.15.14/css/uikit.min.css" />
+  <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="js/uikit-3.15.14/js/uikit.min.js"></script>
+	<script src="js/uikit-3.15.14/js/uikit-icons.min.js"></script>
+  <script src="js/d3.v7.min.js"></script>
+
+<!--leaflet-->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+<!-- Control geocoder -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder@1.13.1/dist/Control.Geocoder.css" />
+<script src="https://unpkg.com/leaflet-control-geocoder@1.13.1/dist/Control.Geocoder.js"></script>
+<link rel="stylesheet" href="css/leaflet.css"/>
+<script src="js/leaflet.js"></script>
+
+
+  <style>
+    .uk-navbar-container:not(.uk-navbar-transparent) {
+      background: black;
+   }
+
+   .uk-navbar-container{
+      padding-left:15px;
+   }
+
+    #container {
+      max-width: 600px;
+      height: 400px;
+      margin: 0 auto;
+      font-family: Helvetica;
+      line-height: 1.4em;
+    }
+
+    h1 {
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    h3 {
+      font-family: sans-serif;
+    }
+
+    html {
+			height: 100%;
+			margin: 0;
+		}
+
+    body {
+      height: 100%;
+			margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.1em;
+    }
+
+    .header {
+      width: 100%;
+      height: 100vh;
+      background: url(./london.jpg) no-repeat;
+      background-size: cover;
+    }
+
+  </style>
+</head>
+
+<body>
+<!--Header-->
+<div class="uk-cover-container uk-height-viewport uk-animation-fade">
+<div class="uk-text-center">
+        <div class="uk-inline-clip uk-transition-toggle uk-light" tabindex="0">
+            <img src="images/london.jpg" width="1800" height="1200" alt="" class="uk-transition-scale-up uk-transition-opaque">
+            <div class="uk-position-center uk-transition-slide-top">
+                <h1 class="uk-margin-remove">London rental market</h1>
+                <p class="uk-margin-remove">
+                This is a simple web provides information of housing rents.
+                </p>
+                <a href="#start" uk-scroll><span uk-icon="icon: chevron-down; ratio: 2"></span></a>
+            </div>
+        </div>
+  </div>
+</div>
+
+<!--Intro-->
+<div class="uk-container uk-width-3-5@m uk-margin-bottom uk-margin-large-top">
+<h3 id="start">Do you...</h3>
+<p>
+  want to know more about London rental prices and market but don't have any idea?
+</p>
+<p>
+  This web may help you solve your problem!
+</p>
+</div>
+
+<!--Navbar-->
+<div uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent uk-light">
+  <nav class="uk-navbar-container" uk-navbar >
+      <div class="uk-navbar-left ">
+        <ul class="uk-navbar-nav">
+          <li><a href="#section1" uk-scroll="offset: 75;">Room types</a></li>
+          <li><a href="#section2" uk-scroll="offset: 75;">Rental market</a></li>
+          <li><a href="#section3" uk-scroll="offset: 75;">About</a></li>
+        </ul>
+      </div>
+  </nav>
+</div>
+
+<!--Types-->
+<div class="uk-container uk-width-3-5@m uk-margin-bottom uk-margin-top">
+  <h3 id="section1">Which room type that you are looking for?</h3>
+  <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow>
+    <div uk-slideshow="min-height: 300; max-height: 600">
+      <ul class="uk-slideshow-items">
+        <li>
+          <img src="images/bedroom.jpg" alt="" uk-cover>
+        </li>
+        <li>
+          <img src="images/interior.jpg" alt="" uk-cover>
+        </li>
+        <li>
+          <img src="images/kitchen.jpg" alt="" uk-cover>
+        </li>
+        <li>
+          <img src="images/bed.jpg" alt="" uk-cover>
+        </li>
+        <li>
+          <img src="images/li.jpg" alt="" uk-cover>
+        </li>
+        <li>
+          <img src="images/bath.jpg" alt="" uk-cover>
+        </li>
+      </ul>
+      <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+      <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+    </div>
+  </div>
+</div>
+
+<!--texts-->
+<div class="uk-container uk-width-3-5@m uk-margin-bottom uk-margin-top">
+  <p>
+    Room: non self-contained single room with shared facilities. Includes bedsits, single rooms in a house or flat shared with other tenants, and single rooms rented from a resident landlord.
+  </p>
+  <p>
+    Studio: self-contained single roomed property with own kitchen and bath/shower/WC facilities.
+  </p>
+
+  <p>
+    One Bedroom: self-contained properties with one bedroom including houses, bungalows, flats and maisonettes.
+  </p>
+
+  <p>
+    Two Bedrooms: self-contained properties with two bedrooms including houses, bungalows, flats and maisonettes.
+  </p>
+
+  <p>
+    Three Bedrooms: self-contained properties with three bedrooms including houses, bungalows, flats and maisonettes.
+  </p>
+
+  <p>
+    Four or more Bedrooms: self-contained properties with four or more bedrooms including houses, bungalows, flats and maisonettes.
+  </p>
+</div>
+<br>
+
+<!--Switcher-->
+  <div class="uk-container uk-width-3-5@m uk-margin-medium-top">
+    <h2 id="section2">London rental market</h2>
+    <div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
+      <ul class="uk-subnav uk-subnav-pill" uk-switcher="animation: uk-animation-fade; toggle: > *">
+        <li><a href="#">Room</a></li>
+        <li><a href="#">Studio</a></li>
+        <li><a href="#">One Bedroom</a></li>
+        <li><a href="#">Two Bedrooms</a></li>
+        <li><a href="#">Three Bedrooms</a></li>
+        <li><a href="#">Four or more Bedrooms</a></li>
+      </ul>
+      <ul class="uk-switcher uk-margin">
+        <li><iframe height="600" width="750" src="map_room.html"></iframe></li>
+        <li><iframe height="600" width="750" src="map_stu.html"></iframe></li>
+        <li><iframe height="600" width="750" src="map1.html"></iframe></li>
+        <li><iframe height="600" width="750" src="map2.html"></iframe></li>
+        <li><iframe height="600" width="750" src="map3.html"></iframe></li>
+        <li><iframe height="600" width="750" src="map4.html"></iframe></li>
+      </ul>
+    </div>
+  </div>
+  <br>
+
+  <!--About-->
+  <div class="uk-container uk-width-3-5@m uk-margin-medium-top">
+    <h2 id="section3">About</h2>
+    <p>
+      This is a simple web page features data of rental market in London to provide people with some information and ideas to find their ideal accommodations.
+    </p>
+    <p>
+      Finding an accommodation has always been a time consuming task for many people.
+      In addition to price comparisons, the environment and the suitable type of room are also important points to consider.
+      And of course, the rent.
+    </p>
+    <p>
+      Therefore, this web tries to put all these points together in the most straightforward and easy to understand way so that you can quickly and easily understand the information.
+    </p>
+  </div>
+
+<!--Footer-->
+  <div class="uk-container uk-width-3-5@m uk-margin-medium-top uk-margin-large-bottom">
+      <p class="uk-text-small uk-text-center">Copyright 2023</p>
+  </div>
+</body>
+</html>
