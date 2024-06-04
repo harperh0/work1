@@ -85,12 +85,13 @@ The project is organised into distinct modules, each dedicated to a specific asp
 1. **Installation and Execution:**
    ```bash
    npm install
+   ```
+   ```bash
    node index.js
-  ```bash
-```
+   ```
 
 2. **Accessing the App:**
-   - Open a browser and go to http://localhost:3000.
+   Open a browser and go to http://localhost:3000.
 
 
 ## Acknowledgments
