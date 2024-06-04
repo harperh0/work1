@@ -33,7 +33,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Data Processing Module
 
-- Code files: ```data.R```
+- Code files: *data.R*
 - Data: 'londonrentalstatisticsq22022.xls' and csv files in data folder
 
 ### Web App Module
