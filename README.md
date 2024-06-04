@@ -83,14 +83,17 @@ The project is organised into distinct modules, each dedicated to a specific asp
 ### Viewing the App:
 
 1. **Installation and Execution:**
-   ```bash
-   npm install
-   ```
-   ```bash
-   node index.js
-   ```
+   - Use the terminal make the downloaded code project folder ‘work1-main’ to your current working directory (use the cd command to navigate to it).
+      - Run the following command.
+      ```bash
+      npm install
+      ```
+       - Start the app server by typing the following command.
+      ```bash
+      node index.js
+      ```
 
-2. **Accessing the App:**
+3. **Accessing the App:**
    Open a browser and go to http://localhost:3000.
 
 
