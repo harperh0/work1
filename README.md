@@ -39,7 +39,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
 ### Web App Module
 
 - Code files: **config.js**, **index.js**, **select_from_db.js**
-- Database: MySQL Database(**hpai_work1.sql**)
+- Database: **hpai_work1.sql**
 
 ### Web Page Module
 
@@ -71,22 +71,29 @@ The project is organised into distinct modules, each dedicated to a specific asp
      - Borough: **Rents_borough.csv**
      - Ideas: **Bor_stu.csv** (with image inserts)
      - Postcodes: **Rents_postcode.csv**
-   - To import the database, download **hpai_work1.sql**.
+   - To import the database, download `hpai_work1.sql`.
 
 3. **App Configuration:**
    - Configure the app in **index.js** and **config_local.js**:
-     - **index.js:** Sets up routes for APIs and lays out page indexing for display.
-     - **config_local.js:** Specifies the connection with the SQL database (**hpai_work1.sql**).
+     - `index.js`: Sets up routes for APIs and lays out page indexing for display.
+     - `config_local.js`: Specifies the connection with the SQL database (**hpai_work1.sql**).
 
 4. **Styling with .ejs Files:**
    - HTML pages are styled using .ejs files.
-   - The main page, 'rental.html', embeds 6 HTML pages, each displaying a room type with a geoJSON map.
+   - The main page, `rental.html`, embeds 6 HTML pages, each displaying a room type with a geoJSON map.
 
 ### Viewing the App:
 
 1. **Installation and Execution:**
-   - Open Terminal, navigate to the project folder, run `npm install`, then execute `node index.js`.
-   
+   - - ```bash
+  npm install
+  ```
+
+  ```bash
+  node index.js
+  ```
+```
+
 2. **Accessing the App:**
    - Open a browser and go to http://localhost:3000.
 
