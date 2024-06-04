@@ -33,13 +33,13 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Data Processing Module
 
-- Code files: *data.R*
-- Data: 'londonrentalstatisticsq22022.xls' and csv files in data folder
+- Code files: **data.R**
+- Data: **londonrentalstatisticsq22022.xls** and csv files in data folder
 
 ### Web App Module
 
-- Code files: 'config.js', 'index.js', 'select_from_db.js'
-- Database: MySQL Database(work1.sql)
+- Code files: **config.js**, **index.js**, **select_from_db.js**
+- Database: MySQL Database(**hpai_work1.sql**)
 
 ### Web Page Module
 
@@ -63,20 +63,20 @@ The project is organised into distinct modules, each dedicated to a specific asp
 ### Detailed Steps:
 
 1. **Data Handling:**
-   - The original dataset 'londonrentalstatisticsq22022.xls' underwent pre-processing in R and was segmented into multiple CSV files based on room types, all stored in the data folder.
+   - The original dataset **londonrentalstatisticsq22022.xls** underwent pre-processing in R and was segmented into multiple CSV files based on room types, all stored in the data folder.
 
 2. **Database Configuration:**
    - Launch MAMP locally and access phpMyAdmin for Mac.
    - Create an SQL database and import datasets:
-     - **Borough:** Rents_borough.csv
-     - **Ideas:** Bor_stu.csv (with image inserts)
-     - **Postcodes:** Rents_postcode.csv
-   - To import the database, download 'hpai_work1.sql'.
+     - Borough: **Rents_borough.csv**
+     - Ideas: **Bor_stu.csv** (with image inserts)
+     - Postcodes: **Rents_postcode.csv**
+   - To import the database, download **hpai_work1.sql**.
 
 3. **App Configuration:**
-   - Configure the app in 'index.js' and 'config_local.js':
+   - Configure the app in **index.js** and **config_local.js**:
      - **index.js:** Sets up routes for APIs and lays out page indexing for display.
-     - **config_local.js:** Specifies the connection with the SQL database ('hpai_work1.sql').
+     - **config_local.js:** Specifies the connection with the SQL database (**hpai_work1.sql**).
 
 4. **Styling with .ejs Files:**
    - HTML pages are styled using .ejs files.
