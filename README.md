@@ -47,8 +47,6 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ## Usage
 
-## Usage
-
 ### Data Processing
 
 1. Go to the Data Processing module.
@@ -85,14 +83,13 @@ The project is organised into distinct modules, each dedicated to a specific asp
 ### Viewing the App:
 
 1. **Installation and Execution:**
-   - - ```bash
+   ```bash
   npm install
   ```
 
   ```bash
   node index.js
   ```
-```
 
 2. **Accessing the App:**
    - Open a browser and go to http://localhost:3000.
