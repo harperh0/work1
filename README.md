@@ -94,7 +94,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
       ```
 
 3. **Accessing the App:**
-   Open a browser and go to http://localhost:3000.
+   Open a browser and go to http://localhost:5000.
 
 
 ## Acknowledgments
