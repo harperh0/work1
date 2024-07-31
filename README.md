@@ -82,7 +82,8 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Viewing the App:
 
-1. **Installation and Execution:**
+1. Ensure that MAMP is connected before starting the app.
+2. **Installation and Execution:**
    - Use the terminal make the downloaded code project folder ‘work1-main’ to your current working directory (use the cd command to navigate to it).
       - Run the following command.
       ```bash
